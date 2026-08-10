@@ -1,0 +1,29 @@
+name: Generate daily Glint content
+on:
+  schedule:
+    - cron: "30 5 * * *"   # 05:30 UTC, every day
+  workflow_dispatch:        # manual run button
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node generate.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          VOICE_ID: ${{ secrets.VOICE_ID }}
+          AUDIO_BASE_URL: ${{ vars.AUDIO_BASE_URL }}
+      - name: Commit content
+        run: |
+          git config user.name "glint-bot"
+          git config user.email "bot@glint"
+          git add content
+          git diff --cached --quiet || git commit -m "Daily content $(date -u +%F)"
+          git push
