@@ -1,7 +1,9 @@
 {
-  "world":   { "label": "World",            "brief": "surprising, verifiable facts about countries, cities, demographics, and how the world actually works today" },
-  "markets": { "label": "Markets",          "brief": "striking facts and one-liners about finance, markets, companies, and money — history and present, no investment advice" },
-  "science": { "label": "Science",          "brief": "genuinely astonishing but true facts from physics, biology, space, and the human body" },
-  "history": { "label": "Today in history", "brief": "vivid, perspective-shifting historical facts, ideally with a time-collision angle (X is older than Y)" },
-  "words":   { "label": "Words",            "brief": "beautiful, obscure, or perfectly useful words from any language, with a crisp definition and origin" }
+  "world":      { "label": "World",            "brief": "surprising, verifiable facts about countries, cities, demographics, and how the world actually works today" },
+  "markets":    { "label": "Markets",          "brief": "striking facts and one-liners about finance, markets, companies, and money — history and present, no investment advice" },
+  "science":    { "label": "Science",          "brief": "genuinely astonishing but true facts from physics, biology, space, and the human body" },
+  "history":    { "label": "Today in history", "brief": "vivid, perspective-shifting historical facts, ideally with a time-collision angle (X is older than Y)" },
+  "words":      { "label": "Words",            "brief": "beautiful, obscure, or perfectly useful words from any language, with a crisp definition and origin" },
+  "blockchain": { "label": "Blockchain",       "brief": "sharp, verifiable facts about crypto, blockchains, and on-chain history — protocol design, famous transactions, market structure. Insider-grade, no hype, no price predictions" },
+  "ai":         { "label": "AI",               "brief": "striking facts about artificial intelligence — research milestones, scale and compute, deployment in the real world, and AI history. For a technically literate reader, no hype" }
 }
