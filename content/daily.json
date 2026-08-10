@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-08-10T15:23:44.339Z",
+  "channels": {
+    "world": {
+      "label": "World",
+      "facts": [
+        {
+          "text": "On this date in 1793, the Louvre opened as a public museum — converting a royal palace that had housed French kings for centuries into a space any citizen could enter, a genuinely radical act at the time."
+        },
+        {
+          "text": "On August 10, 1628, the Swedish warship Vasa sank 1,300 meters into her maiden voyage. She was so top-heavy she capsized in a light breeze, taking 30 lives and Sweden's naval pride with her."
+        },
+        {
+          "text": "Mongolia has more horses than people — roughly 4.3 million horses to 3.4 million humans — and a third of the population still lives nomadically, moving with their herds across the steppe."
+        },
+        {
+          "text": "The Philippines is the world's largest supplier of nurses, with over 25% of all internationally deployed nurses being Filipino — a deliberate postcolonial export strategy built into the national education system."
+        },
+        {
+          "text": "Istanbul is the only city that spans two continents, but its European side holds just 3% of the land while housing over a third of its 16 million people — making it one of the densest urban corridors on Earth."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Markets",
+      "facts": [
+        {
+          "text": "On August 10, 1792, the French monarchy effectively ended when the Tuileries Palace fell — the Paris Bourse, founded just four years earlier, suspended trading that day and wouldn't fully reopen for years."
+        },
+        {
+          "text": "On August 10, 1949, Congress signed the National Security Act amendments creating the Department of Defense — Lockheed's stock had already quietly doubled in the prior 18 months anticipating the Cold War buildup."
+        },
+        {
+          "text": "The S&P 500 has closed higher on the Friday before August options expiration more than 70% of the time since 2000, a quirk traders call 'pinning' as market makers defend strike prices."
+        },
+        {
+          "text": "Berkshire Hathaway's Class A shares have never split. At over $700,000 each, a single share costs more than the median American house."
+        },
+        {
+          "text": "The Dutch tulip mania of 1637 peaked not with rare bulbs but with futures contracts — paper promises on tulips not yet planted, making it history's first recorded derivatives bubble."
+        }
+      ]
+    },
+    "science": {
+      "label": "Science",
+      "facts": [
+        {
+          "text": "On this date in 1990, the Magellan spacecraft entered Venus's orbit — a planet where a day lasts longer than its year."
+        },
+        {
+          "text": "Your skeleton is not static. Every decade, you replace roughly 100% of your bone mass, atom by atom."
+        },
+        {
+          "text": "On this date in 1675, King Charles II ordered the Royal Observatory founded — the original prime meridian was drawn through a building that no longer stands."
+        },
+        {
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh about a billion tons on Earth."
+        },
+        {
+          "text": "Octopuses have three hearts, blue blood, and neurons distributed throughout their arms — each limb can taste, touch, and make decisions independently."
+        }
+      ]
+    },
+    "history": {
+      "label": "Today in history",
+      "facts": [
+        {
+          "text": "On this day in 1628, the Swedish warship Vasa sank 20 minutes into her maiden voyage. She was raised intact in 1961 — the sailors' lunches were still on the tables."
+        },
+        {
+          "text": "Missouri entered the Union on August 10, 1821. It is older than the photograph, the postage stamp, and the word 'scientist.'"
+        },
+        {
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. The pyramids were already ancient history to her."
+        },
+        {
+          "text": "The fax machine was patented in 1843 — 21 years before the American Civil War ended, and a full 33 years before Alexander Graham Bell patented the telephone."
+        },
+        {
+          "text": "Oxford University was teaching students before the Aztec Empire existed. When Montezuma was born, Oxford had already been running for 300 years."
+        }
+      ]
+    },
+    "words": {
+      "label": "Words",
+      "facts": [
+        {
+          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012. It felt inevitable the moment it existed."
+        },
+        {
+          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed. Untranslatable, it folds homesickness, grief, and nostalgia into a single breath."
+        },
+        {
+          "text": "On this day in 1519, Magellan's fleet departed Seville — giving the world 'circumnavigate,' from Latin circum (around) + navigare (to sail). The word outlasted every sailor on that voyage."
+        },
+        {
+          "text": "Petrichor (n.): the smell of rain on dry earth. Named in 1964 by Australian scientists Isabel Joy Bear and Richard Thomas, from Greek petra (stone) + ichor, the fluid said to flow in the veins of gods."
+        },
+        {
+          "text": "On this day in 1675, the Royal Observatory at Greenwich was founded — anchoring the word 'meridian' to a single iron line, from Latin meridianus: of midday, the moment the sun crosses due south."
+        }
+      ]
+    }
+  }
+}
