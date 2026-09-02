@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-01T10:17:04.347Z",
+  "generatedAt": "2026-09-02T09:46:51.390Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1939, Germany invaded Poland — but France and Britain, despite declaring war two days later, launched no real offensive for eight months. The 'Phoney War' left Poland to fall alone."
+          "text": "On this date in 1666, the Great Fire of London broke out — and destroyed 13,200 houses while killing only 6 people, a death toll historians still find implausibly low."
         },
         {
-          "text": "On this date in 1715, Louis XIV died after ruling France for 72 years — longer than any other major European monarch in history. He outlived his son, grandson, and great-grandson heir."
+          "text": "On September 2, 1945, Japan formally surrendered aboard the USS Missouri, ending a war that had killed roughly 3% of the entire world's population."
         },
         {
-          "text": "Manila is the most densely populated city on Earth, packing over 111,000 people per square kilometer — denser than any borough of New York, any district of Tokyo, anywhere."
+          "text": "Mongolia has more horses than people — roughly 4.3 million horses for 3.4 million humans — and many Mongolians still navigate the steppe entirely on horseback."
         },
         {
-          "text": "Canada has more lakes than every other country on Earth combined, holding roughly 60% of the world's fresh surface lake water within its borders."
+          "text": "The Philippines is the only country in Asia where the majority of the population is Christian, a direct legacy of 333 years of Spanish colonial rule."
         },
         {
-          "text": "Indonesia is home to more volcanoes than any country on Earth — around 130 active ones — and sits atop so much geothermal energy that it remains largely untapped despite chronic electricity shortages."
+          "text": "Tokyo's greater metropolitan area holds 37 million people — more than the entire population of Canada, packed into a region smaller than Connecticut."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this day in 1998, Russia defaulted on its domestic debt, triggering a global financial panic that destroyed Long-Term Capital Management — a hedge fund run by two Nobel laureates."
+          "text": "On this day in 1929, the Dow Jones peaked at 381 before losing 89% of its value over the next three years. That peak wouldn't be recovered until 1954 — a 25-year wait."
         },
         {
-          "text": "On September 1, 1939, the same day Germany invaded Poland, the New York Stock Exchange opened normally and closed up on the day."
+          "text": "On September 2, 1945, Japan formally surrendered, ending WWII and triggering one of the greatest single-day stock rallies in U.S. history as wartime controls lifted overnight."
         },
         {
-          "text": "The Dutch East India Company paid an uninterrupted dividend for 200 years, making it history's most durable income investment — it also had its own army, navy, and the power to wage war."
+          "text": "The New York Stock Exchange was founded under a buttonwood tree in 1792 with just 24 brokers. Its first listed security was Bank of New York stock, which traded at a fixed 0.25% commission."
         },
         {
-          "text": "Warren Buffett's Berkshire Hathaway originally made textiles. He later called buying it the worst trade of his life, estimating the mistake cost him $200 billion in compounded opportunity."
+          "text": "Saudi Aramco briefly became the first company to hit $2 trillion in market value in 2019 — a figure larger than the entire GDP of Italy, the world's eighth-largest economy."
         },
         {
-          "text": "The entire U.S. bond market is roughly twice the size of the U.S. stock market — most of the money in finance moves through an asset class most people never think about."
+          "text": "Warren Buffett's Berkshire Hathaway once traded below $8 per share. A single Class A share now costs more than $700,000 — making it the most expensive stock on any major exchange."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1859, the Carrington Event began — the most powerful solar storm ever recorded. It made auroras visible in Cuba and set telegraph wires on fire without any power source connected."
+          "text": "On this date in 1859, the Carrington Event hit Earth — the most powerful geomagnetic storm ever recorded. Telegraph wires sparked, caught fire, and sent messages without power. The same storm today would collapse global infrastructure within hours."
         },
         {
-          "text": "On this date in 1979, Pioneer 11 became the first spacecraft to fly past Saturn, revealing that its rings are almost entirely empty space — more vacuum than the best vacuum humans can create on Earth."
+          "text": "On September 2, 1969, the first two computers on what became the internet exchanged their first data — at UCLA. The network had two nodes. The first message crashed it."
         },
         {
-          "text": "Your bones are not passive scaffolding. They secrete a hormone called osteocalcin that regulates memory, fertility, and your body's response to sudden danger — effectively acting as a gland."
+          "text": "Your body contains roughly 37 trillion cells, but only 1 in 10 of them is human. The rest are bacteria, fungi, and archaea. You are, by cell count, not primarily yourself."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere roughly the size of a city. A single teaspoon of its material would weigh about a billion tons on Earth."
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its matter would weigh about a billion tons on Earth — enough to sink through any surface ever conceived."
         },
         {
-          "text": "Tardigrades can survive the vacuum of open space, absorbed doses of radiation that would kill a human 1,000 times over, and temperatures near absolute zero — all without any special adaptation beyond cryptobiosis."
+          "text": "Light slows down inside glass, water, and other media — but particles can outrun it there. When they do, they emit a blue shock wave called Cherenkov radiation. It is the optical equivalent of a sonic boom."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1939, Germany invaded Poland — but France and Britain's declaration of war came two days later. Hitler genuinely believed they were bluffing, again."
+          "text": "On this day in 1666, the Great Fire of London began — and burned for four days, destroying 13,200 houses. St. Paul's Cathedral melted. The city it erased was older than the one we rebuilt."
         },
         {
-          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. We casually call both 'ancient civilizations.'"
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She was separated from the pyramids by more centuries than she is from us."
         },
         {
-          "text": "On this day in 1985, the wreck of the Titanic was located. It had been on the ocean floor longer by then than it had been a working ship."
+          "text": "On this day in 1945, Japan signed the surrender documents aboard USS Missouri, ending WWII. The war in the Pacific outlasted the war in Europe by exactly 99 days."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. Egypt's own history dwarfs our imagination of it."
+          "text": "The fax machine was patented in 1843 — 33 years before the telephone. Your grandparents' office ran on technology older than the phone call."
         },
         {
-          "text": "The fax machine was patented in 1843 — before the American Civil War, before the telephone, before the light bulb. Your office's most hated device is older than modernity."
+          "text": "Oxford University began teaching students before the Aztec Empire existed. When Montezuma was born, Oxford had already been educating scholars for three centuries."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012 — invented, yet it filled a gap language had no business leaving empty."
+          "text": "Meraki (μεράκι): a Greek word for doing something with soul, creativity, and love — leaving a piece of yourself in your work. English has no single equivalent, which says something about English."
         },
         {
-          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed. It folds homesickness, grief, and nostalgia into one word that English, despite borrowing from everywhere, never managed to build."
+          "text": "Sonder: the realization that each passerby has a life as vivid and complex as your own. Coined in 2012 by John Koenig, it spread so fast the dictionary had to chase it."
         },
         {
-          "text": "On this day in 1939, Germany invaded Poland — and the word 'blitzkrieg' entered global vocabulary within weeks. Meaning 'lightning war' in German, it was largely a term coined by foreign journalists, not the Wehrmacht itself."
+          "text": "On this day in 1666, the Great Fire of London was still raging — and the word 'inferno' (from Latin infernus, 'below') originally meant hell itself, not merely a large fire."
         },
         {
-          "text": "Mamihlapinatapai: a Yaghan word from Tierra del Fuego describing a look shared between two people who both want something but neither will initiate. The language has one living native speaker as of the 2020s."
+          "text": "Hiraeth (Welsh): a homesickness for a home you cannot return to, or never had. It folds grief, longing, and love into a single syllable cluster English speakers can only approximate."
         },
         {
-          "text": "On September 1, 1878, Emma Nutt became the world's first female telephone operator in Boston. The word 'operator' descends from Latin 'operari' — to work, to take effect — and quietly outlasted every technology it once named."
+          "text": "On September 2, 1945, Japan's formal surrender ended WWII — and the word 'surrender' entered English via Old French se rendre, meaning simply 'to give oneself back.'"
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2017, Bitcoin's SegWit upgrade activated after a years-long civil war. It separated signature data from transaction data, doubling effective block capacity without a hard fork."
+          "text": "On this date in 2017, Bitcoin's price crossed $5,000 for the first time — nine years after Satoshi's whitepaper proposed a system explicitly designed to make trusted third parties obsolete."
         },
         {
-          "text": "On this date in 2021, Ethereum's EIP-1559 had been live for 26 days, having already burned over 100,000 ETH — permanently removing it from supply via ordinary transaction fees."
+          "text": "On Sep 2, 2015, Ethereum processed its 1,000,000th transaction, just 77 days after mainnet launch — a pace that would have been unthinkable on Bitcoin's UTXO architecture."
         },
         {
-          "text": "Satoshi's genesis block coinbase contains the text 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks' — both a timestamp and an editorial statement baked immutably into Bitcoin's first block."
+          "text": "The Bitcoin genesis block contains a hidden timestamp: Satoshi embedded a 2009 Times headline about bank bailouts, making the political grievance permanently immutable on-chain."
         },
         {
-          "text": "The DAO hack of 2016 drained 3.6 million ETH through a reentrancy bug. The attacker couldn't move the funds immediately — a 28-day lock gave Ethereum enough time to hard-fork and reverse the theft."
+          "text": "Ethereum's EIP-1559, live since August 2021, has burned over 4 million ETH — turning the network's fee mechanism into a deflationary force no initial whitepaper anticipated."
         },
         {
-          "text": "Bitcoin's difficulty adjustment recalculates every 2,016 blocks, targeting a 10-minute average. It has no external oracle — the network self-corrects purely through elapsed timestamps recorded by miners."
+          "text": "The 2016 DAO hack didn't exploit Solidity — it exploited a reentrancy pattern the auditors had flagged. The Ethereum Foundation forked anyway, splitting the chain into ETH and ETC permanently."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2009, Kickstarter launched — the same year Hinton's group at Toronto was quietly scaling deep belief nets that would, three years later, halve ImageNet error rates and reboot the entire field."
+          "text": "On this date in 2009, Hinton's group at Toronto published work on deep belief networks that would directly seed the ImageNet breakthrough three years later — the paper that made 'deep learning' a boardroom word."
         },
         {
-          "text": "On this date in 2017, Google Brain published the Transformer paper. 'Attention Is All You Need' was rejected from one workshop before acceptance; it now has over 100,000 citations."
+          "text": "On this date in 2017, the first public arxiv draft of 'Attention Is All You Need' was circulating in preprint — the transformer architecture now underlies virtually every frontier language model."
         },
         {
-          "text": "AlphaFold 2 predicted structures for roughly 200 million proteins — nearly every catalogued protein known to science — in a run that would have taken conventional crystallography thousands of years."
+          "text": "AlphaFold 2 predicted structures for over 200 million proteins, roughly every catalogued organism on Earth, in a project that would have taken classical crystallography longer than the age of the universe."
         },
         {
-          "text": "GPT-4 was trained on roughly 25,000 A100-equivalents for an estimated $100M in compute. The entire compute budget of the Manhattan Project, inflation-adjusted, was about $2.2B — the gap is closing fast."
+          "text": "GPT-4's training run is estimated to have consumed around 50 gigawatt-hours of electricity — comparable to the annual consumption of 4,500 average US households, for a single model training pass."
         },
         {
-          "text": "The first neural network to beat a human champion at Go, AlphaGo, was itself defeated nine months later by AlphaGo Zero, which learned entirely from self-play with no human game data whatsoever."
+          "text": "The first neural network to defeat a human champion at Go, AlphaGo, did so in 2016 using a policy network trained on 30 million expert moves, then refined by playing itself 1.3 million additional games."
         }
       ]
     }
