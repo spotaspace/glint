@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-03T09:58:53.277Z",
+  "generatedAt": "2026-09-04T09:47:58.180Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1783, the Treaty of Paris was signed, officially ending the American Revolutionary War — nearly two years after the fighting had stopped."
+          "text": "On this date in 1781, a group of 44 settlers founded a small pueblo on the California coast. That settlement is now Los Angeles, the second-largest city in the United States."
         },
         {
-          "text": "On September 3, 1967, Sweden switched overnight from driving on the left to the right. The government had prepared for years; accidents actually dropped sharply in the weeks that followed."
+          "text": "On September 4, 1888, George Eastman patented the Kodak camera — a device so simple its slogan was 'you press the button, we do the rest.' It democratized photography within a decade."
         },
         {
-          "text": "More people live inside a circle drawn around Manila than inside one drawn around New York City of the same radius — Southeast Asia's density defies almost any Western intuition."
+          "text": "Monaco is smaller than New York's Central Park, yet it has the world's highest GDP per capita and a longer life expectancy than any other nation on Earth."
         },
         {
-          "text": "Canada has more lakes than every other country on Earth combined, holding roughly 60% of the world's total freshwater lake surface area."
+          "text": "More people live inside a 40-kilometer radius of Tokyo than in the entire country of Canada. The greater Tokyo area holds roughly 37 million people."
         },
         {
-          "text": "Vatican City's population is overwhelmingly male and middle-aged, making it statistically the world's least demographically normal sovereign state — no births are recorded there most years."
+          "text": "The country with the most time zones is France — not Russia or the United States. French overseas territories spread it across 12 distinct zones simultaneously."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this day in 1929, the Dow Jones peaked at 381 points — a level it would not reclaim for 25 years, not until November 1954."
+          "text": "On Sept 4, 1998, Google incorporated with $100,000 in seed money. It now generates more than that every 90 seconds in profit."
         },
         {
-          "text": "On September 3, 1658, Oliver Cromwell died, triggering a political crisis that within two years restored the monarchy and reshaped England's financial system entirely."
+          "text": "On Sept 4, 1929, stock prices began their pre-crash slide — the Dow would lose 89% of its value before bottoming out in 1932."
         },
         {
-          "text": "The Dutch East India Company, history's first publicly traded corporation, at its 1637 peak held a market cap equivalent to roughly $8 trillion in today's dollars."
+          "text": "The S&P 500 has closed higher on the Friday before Labor Day more than 70% of the time since 1950 — the most reliable single-day seasonal bias in U.S. equities."
         },
         {
-          "text": "Warren Buffett's Berkshire Hathaway originally made textiles. He later called buying it the worst investment of his life, costing him an estimated $200 billion in opportunity cost."
+          "text": "Saudi Aramco briefly hit a $2 trillion market cap in 2022. The entire U.S. banking sector — every bank combined — was worth less."
         },
         {
-          "text": "The entire global bond market — around $130 trillion — is larger than global equity markets, yet receives a fraction of the financial press coverage stocks do."
+          "text": "The Dutch East India Company paid a dividend every single year for nearly 200 years, even while actively losing wars and going bankrupt in 1799."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1976, Viking 2 landed on Mars. The soil samples it collected were so chemically reactive that scientists spent decades debating whether they had accidentally detected life."
+          "text": "On this date in 1998, Google was incorporated — but the universe already contained a search engine of sorts: your brain executes roughly 100 trillion synaptic operations per second, dwarfing any server farm on Earth."
         },
         {
-          "text": "On this date in 1928, Alexander Fleming noticed mold killing bacteria in a petri dish he had left out before a vacation — the sloppiest experiment in history became penicillin."
+          "text": "On September 4, 1882, Edison switched on the first commercial power grid in Manhattan. The electrons powering it moved at under 1mm per second — the energy traveled fast, but the actual particles barely shuffled."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its matter would weigh about a billion tons on Earth."
+          "text": "A teaspoon of neutron star material weighs about 10 million tons. The star itself is essentially one enormous atomic nucleus, held together by the same force binding protons in your cells."
         },
         {
-          "text": "Your body contains roughly 37 trillion cells, but you host about 38 trillion bacterial cells. You are, by count, slightly more microbe than human."
+          "text": "Your skeleton is not the fixed scaffold it appears. Every atom of calcium in your bones will be completely replaced within roughly 10 years, making you a slow, continuous act of self-construction."
         },
         {
-          "text": "Light from the Sun takes 8 minutes to reach Earth, but took around 100,000 years to travel from the Sun's core to its surface before that."
+          "text": "Light slows down inside a diamond to 124,000 km/s — about 41% of its vacuum speed. That trapped, redirected light is the entire reason a cut stone appears to brilliantly glow from within."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1189, Richard I was crowned King of England — a man who ruled England for a decade and spent roughly six months of it there."
+          "text": "On this day in 1998, Google was incorporated in a Menlo Park garage. It is younger than the Furby."
         },
         {
-          "text": "On this day in 1939, Britain declared war on Germany. The BBC interrupted its programming, then resumed a Donald Duck cartoon."
+          "text": "On this day in 1781, settlers founded a village called El Pueblo de Los Ángeles. The U.S. Constitution didn't exist yet."
         },
         {
-          "text": "The fax machine was invented in 1843, twenty-one years before anyone had laid a transcontinental railroad."
+          "text": "Oxford University was teaching students before the Aztec Empire existed. It predates Tenochtitlán by roughly two centuries."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid — by over 900 years."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza."
         },
         {
-          "text": "The University of Oxford was already 300 years old when the Aztec Empire was founded."
+          "text": "Nintendo was founded in 1889, making it older than the Eiffel Tower, sliced bread, and commercial air travel."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in *The Dictionary of Obscure Sorrows*, 2012. Too precise to stay obscure for long."
+          "text": "Saudade (Portuguese): a melancholic longing for something beloved and lost. Untranslatable, it sits between grief and pleasure — the ache of loving what is absent."
         },
         {
-          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed — grief, nostalgia, and yearning fused into one syllable the English language simply cannot replicate."
+          "text": "Mamihlapinatapai: a Yaghan word for the look shared by two people who both want something but hope the other will act first. One word; an entire negotiation."
         },
         {
-          "text": "On this date in 1658, Oliver Cromwell died, and England exhaled. The old Norse word *cromwellian* never caught on, but *interregnum* — Latin for 'between reigns' — entered common English precisely to describe the hollow years his rule created."
+          "text": "Hiraeth (Welsh): homesickness for a home you cannot return to — or never had. It carries grief, longing, and incompleteness in a single breath."
         },
         {
-          "text": "Mamihlapinatapai: a Yaghan word from Tierra del Fuego describing a look shared by two people who both want something but won't be the first to say so. Listed in the Guinness Book as the world's most succinct word."
+          "text": "On this date in 1888, George Eastman patented the Kodak camera, coining its name because he wanted a word that was short, pronounceable in any language, and meant nothing at all."
         },
         {
-          "text": "On this date in 1939, Britain declared war on Germany. The word *blitz* entered English within months — borrowed from German *Blitzkrieg* (lightning war), then clipped by Londoners into something almost casual, the way language tames what terror cannot."
+          "text": "Kenopsia: the eerie, forlorn quality of a place usually bustling but now abandoned. Coined recently, yet it names something humans have always felt stepping into an empty school or silent office."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2017, China's central bank declared ICOs illegal and ordered all completed token sales to refund investors — erasing roughly $60B in crypto market cap within 72 hours."
+          "text": "On this date in 2017, China's central bank declared ICOs illegal and ordered all proceeds returned to investors — triggering a 20% single-day drop in ETH and accelerating the offshore migration of the entire token-sale industry."
         },
         {
-          "text": "On this date in 2012, Satoshi's final known email to Gavin Andresen was sent, signing off with 'I've moved on to other things' — the last verifiable communication from Bitcoin's creator."
+          "text": "On September 4, 2020, SushiSwap's anonymous founder Chef Nomi returned $14M in ETH after publicly admitting he had drained the developer fund, one of the few cases of a rug-pull being voluntarily reversed."
         },
         {
-          "text": "Bitcoin's genesis block contains an unspendable 50 BTC reward. Satoshi hardcoded it that way: the coinbase transaction references no prior output, making the coins permanently unclaimable by design."
+          "text": "Bitcoin's UTXO model means your wallet holds no coins — it holds cryptographic proofs that unspent transaction outputs are spendable by your key. The 'balance' shown in software is computed on the fly."
         },
         {
-          "text": "Ethereum's gas limit is not fixed in the protocol — it's a rolling average adjusted block-by-block via miner (now validator) votes, meaning block capacity is set by consensus, not code."
+          "text": "The Ethereum genesis block was mined on July 30, 2015, but contained 8,893 pre-allocated addresses funded via the 2014 presale — meaning ETH was never a purely proof-of-work-originated asset from block one."
         },
         {
-          "text": "The 2016 DAO hack didn't steal funds — it legally withdrew them under the contract's own rules. The Ethereum community forked not because the code failed, but because it worked exactly as written."
+          "text": "Satoshi's original Bitcoin whitepaper never uses the word 'blockchain' — the structure is described as a 'chain of blocks', and the compound noun became industry standard only years after Satoshi's disappearance."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2019, OpenAI released GPT-2 in full after a staged rollout it had delayed over misuse fears — the first time a lab publicly rationed a model release, a practice that quietly became industry norm."
+          "text": "On this date in 2009, Fei-Fei Li's team began the final push to release ImageNet — 14 million labeled images that would make the 2012 AlexNet breakthrough possible and effectively start the modern deep learning era."
         },
         {
-          "text": "On this date in 2024, Google DeepMind's AlphaProof solved four of six problems from the International Mathematical Olympiad, crossing a threshold most researchers had placed a decade away."
+          "text": "Today in 2017, Google Brain published the Transformer paper. 'Attention Is All You Need' had eight authors; seven left Google within five years to found or co-found competing AI labs."
         },
         {
-          "text": "The training run for GPT-4 is estimated to have consumed roughly 50 gigawatt-hours of electricity — comparable to the annual residential consumption of about 4,600 US homes."
+          "text": "GPT-4's training run is estimated to have consumed more compute than all AI research published before 2012 combined — a compression of roughly six decades of academic progress into a single model."
         },
         {
-          "text": "RLHF, the technique that made large language models conversationally coherent, was first described in a 2017 paper with 'Atari' in the title; its authors had no idea it would become the alignment method of record."
+          "text": "AlphaFold 2 predicted the structures of over 200 million proteins before most structural biologists had personally determined 200. The entire Protein Data Bank took 50 years to accumulate 170,000 entries."
         },
         {
-          "text": "Transformers were introduced in 2017 specifically to replace recurrence in sequence modeling — the authors expected the architecture to remain a niche NLP tool, not become the substrate for nearly every frontier model across vision, audio, and protein folding."
+          "text": "The first neural network to defeat a human grandmaster at chess wasn't Deep Blue — it was a 1991 system called NETchess running on hardware weaker than a modern thermostat. Deep Blue used brute-force search, not learned weights."
         }
       ]
     }
