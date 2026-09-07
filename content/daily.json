@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-06T09:33:28.647Z",
+  "generatedAt": "2026-09-07T10:34:06.729Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1522, the Victoria limped into Seville with 18 survivors — the first ship to circumnavigate the globe. It left with 270 men."
+          "text": "On this date in 1822, Brazil declared independence from Portugal — making it the only country in the Americas to have ever been the seat of a European monarchy, when the Portuguese royal family ruled from Rio de Janeiro."
         },
         {
-          "text": "On this date in 1995, Cal Ripken Jr. broke Lou Gehrig's consecutive games record. Baltimore's population that year: 702,000. Today it sits below 570,000."
+          "text": "On September 7, 1940, the Blitz began over London. The city absorbed 57 consecutive nights of bombing yet never surrendered its underground rail system, which sheltered up to 177,000 people per night."
         },
         {
-          "text": "Tokyo's greater metropolitan area holds 37 million people — more than the entire population of Canada — yet its murder rate is lower than that of Zurich."
+          "text": "More people live inside a 4,000km radius centered on Bangladesh than live outside it — over half of humanity fits within that single circle."
         },
         {
-          "text": "More people live inside a 40-mile radius of Jakarta than in all of Australia. Indonesia is now building a new capital, Nusantara, specifically because Jakarta is sinking into the Java Sea."
+          "text": "Monaco is so dense that if the entire world matched its population per square kilometer, every human alive today would fit inside Texas with room to spare for another two trillion people."
         },
         {
-          "text": "The country with the world's highest median age is not Japan. It is Monaco, where the median resident is over 55 — a city-state with no maternity ward of its own."
+          "text": "Canada has more lakes than every other country on Earth combined — roughly 60% of the world's lakes are Canadian, yet the country ranks 38th in population."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this day in 1869, the Philadelphia Savings Fund Society became the first US savings bank to install a dedicated stock ticker — Wall Street's pulse, beating inside a savings institution."
+          "text": "On this day in 1998, Google Inc. was incorporated in a Menlo Park garage with $100,000 in seed money. It is now worth more than the entire GDP of Italy."
         },
         {
-          "text": "On September 6, 1995, the Dow Jones closed above 4,700 for the first time. It would cross 10,000 less than four years later."
+          "text": "On September 7, 1869, the first U.S. trademark was issued — to a paint company. The patent office now processes over 600,000 trademark applications a year."
         },
         {
-          "text": "The entire US Treasury bond market — roughly $27 trillion — reprices every time a single auction clears. One number, set by competitive bids, moves the cost of borrowing for everything from mortgages to municipal debt."
+          "text": "The New York Stock Exchange was founded under a buttonwood tree in 1792. The original 24 brokers agreed to charge each other fixed commissions, an arrangement that lasted 183 years."
         },
         {
-          "text": "Warren Buffett's Berkshire Hathaway once held more US Treasury bills than the Federal Reserve itself, a quiet inversion of who actually backstops American short-term debt."
+          "text": "Warren Buffett's Berkshire Hathaway originally made textiles. He later called buying it the worst trade of his life, estimating the opportunity cost at $200 billion."
         },
         {
-          "text": "The Dutch East India Company's 1602 IPO raised 6.4 million guilders. Adjusted for economic weight, it remains the largest capital raise in history — dwarfing any modern tech listing."
+          "text": "The Dutch East India Company, history's first publicly traded corporation, was so large it had its own army, minted its own coins, and negotiated its own treaties with foreign governments."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1869, John Wesley Hyatt patented celluloid — the first synthetic plastic, born from a quest to replace ivory in billiard balls. Every plastic object you touch traces its lineage to that one game."
+          "text": "On this day in 1927, Philo Farnsworth transmitted the first all-electronic television image — a straight line — to a receiver in the next room. He was 21."
         },
         {
-          "text": "On this date in 1522, the Victoria limped into Seville with 18 survivors, completing the first circumnavigation of Earth. The ship's log was off by one full day — time zones wouldn't explain why for another three centuries."
+          "text": "On this day in 1936, the last known thylacine died in a Hobart zoo, making it the only large predator hunted to extinction in modern Australia."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its matter would weigh roughly a billion tons on Earth."
+          "text": "A neutron star packs more mass than the Sun into a sphere roughly 20 kilometers across, making its surface gravity 200 billion times stronger than Earth's."
         },
         {
-          "text": "Your bones are not static scaffolding. The entire adult skeleton replaces itself approximately every decade, driven by cells that continuously dissolve old bone and deposit new."
+          "text": "Your body contains roughly 37 trillion cells, yet the decisions governing them are encoded in a molecule so thin that all the DNA in one human cell, uncoiled, would stretch about two meters."
         },
         {
-          "text": "Light takes eight minutes to reach Earth from the Sun, but the photons began their journey inside the Sun's core up to 100,000 years ago — trapped, scattered, and redirected before finally escaping."
+          "text": "Mantis shrimp see with 16 types of color receptors — humans have 3 — yet they process color worse than we do, trading nuance for raw speed in identifying threats."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1522, Magellan's ship Victoria completed the first circumnavigation of Earth — with 18 survivors from 270. The journey took 1,082 days and proved the planet was larger than almost anyone had guessed."
+          "text": "On this day in 1936, the last known thylacine died in a Hobart zoo — not from hunting, but neglect. The species had survived 11 million years and was killed by a budget cut."
         },
         {
-          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. Europe's oldest university predates what we call 'ancient' Mesoamerican civilization by three centuries."
+          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. Medieval Europe had tenure disputes before Tenochtitlán had walls."
         },
         {
-          "text": "On this day in 1901, President McKinley was shot at the Pan-American Exposition in Buffalo. He lingered for eight days — long enough that his doctors' optimism made the world believe he'd survive, then didn't."
+          "text": "On this day in 1822, Brazil declared independence from Portugal — while its emperor, Pedro I, was wearing riding boots and standing in a field. The paperwork caught up later."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She was born roughly 2,500 years after Khufu's tomb was sealed, and died 2,050 years before 1969."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She was ancient history to ancient Egyptians."
         },
         {
-          "text": "The fax machine was patented in 1843 — before the American Civil War, before the telephone, before the lightbulb. Alexander Bain's 'electric printing telegraph' transmitted images across wires while Abraham Lincoln was still a country lawyer."
+          "text": "The fax machine was invented before the telephone. Alexander Bain patented a working fax system in 1843; Bell's telephone came 33 years later."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012. Already feels ancient."
+          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012 — and now it spreads like a word that always deserved to exist."
         },
         {
-          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed. Untranslatable in a single word to English, it carries grief, nostalgia, and yearning fused into one."
+          "text": "Vellichor (n.): the strange wistfulness of used bookshops. Also Koenig's invention — proof that naming a feeling retroactively makes you realize you've always had it."
         },
         {
-          "text": "On this day in 1522, the remnant of Magellan's fleet completed the first circumnavigation of Earth. They returned with a vocabulary problem: they'd lost an entire calendar day, which no word then existed to describe."
+          "text": "On this day in 1888, the word 'appendicitis' appeared in print for the first time, coined by surgeon Reginald Fitz. Before that, the organ had no official name — and neither did dying from it."
         },
         {
-          "text": "Petrichor (n.): the smell of rain on dry earth. Coined in 1964 by Australian scientists Isabel Bear and Richard Thomas, from Greek petra (stone) and ichor, the fluid in the veins of the gods."
+          "text": "Psithurism (n.): the sound of wind through leaves. From Greek psithuros, whispering. English had this word and quietly forgot it, which is its own kind of loss."
         },
         {
-          "text": "On this day in 1899, the word 'aspirin' was registered as a trademark by Bayer. It derives from Spiraea, the genus of meadowsweet plant yielding salicylic acid — the 'a' prefix simply meaning without acetyl's harshness."
+          "text": "On September 7, 1822, Brazil declared independence — giving the world 'saudade,' Portuguese's untranslatable ache for something beloved and gone, a word the language exports better than any product."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2017, China's People's Bank declared ICOs illegal and ordered all completed token sales to refund investors — triggering a 20% single-day drop in Ethereum's price and briefly wiping $50B from total crypto market cap."
+          "text": "On this date in 2017, China's PBOC banned ICOs entirely, declaring them illegal fundraising. Bitcoin dropped 10% within hours, then fully recovered in under two weeks."
         },
         {
-          "text": "On this date in 2021, El Salvador became the first country to adopt Bitcoin as legal tender, requiring all businesses to accept it — a mandate so poorly received domestically that 80% of citizens surveyed by the Central American University opposed it."
+          "text": "On this date in 2021, El Salvador made Bitcoin legal tender — the first nation to do so. The rollout crashed the state-built Chivo wallet within hours of launch."
         },
         {
-          "text": "Bitcoin's base layer has never processed more than ~7 transactions per second by design. Visa handles ~65,000 at peak. The entire global Bitcoin settlement layer moves less volume per second than a single mid-sized gas station on a Saturday."
+          "text": "The Bitcoin genesis block contains the text 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks' — hardcoded proof-of-timestamp that also reads as a political manifesto."
         },
         {
-          "text": "The DAO hack of 2016 didn't exploit Ethereum's code — it exploited Solidity's reentrancy pattern in a third-party contract. Ethereum's hard fork to recover funds was approved by miners controlling ~85% of hashrate, revealing how social consensus overrides code immutability."
+          "text": "Ethereum's EIP-1559, live since August 2021, burns the base fee rather than paying it to miners. Over 4 million ETH had been destroyed by end of 2024, making ETH periodically deflationary."
         },
         {
-          "text": "Satoshi Nakamoto's genesis block coinbase contains the text 'Chancellor on brink of second bailout for banks' — a London Times headline from January 3, 2009 — serving simultaneously as a timestamp proof and an editorial on why Bitcoin was built."
+          "text": "The 2016 DAO hack didn't steal funds directly — it exploited a reentrancy bug to drain ETH before balances updated. The attacker had a 28-day timer built into the contract that gave Ethereum time to fork."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2016, DeepMind's WaveNet paper was published — a generative audio model so computationally expensive it took 90 minutes to synthesize one second of speech. It now runs in real time on consumer hardware."
+          "text": "On this date in 2017, OpenAI released its Baselines library — clean RL reference implementations that quietly became the field's standard starting point for nearly every policy gradient experiment for years afterward."
         },
         {
-          "text": "On this date in 2023, GPT-4's system card revealed the model had scored in the 90th percentile on the Uniform Bar Exam — a benchmark its predecessor GPT-3.5 had failed outright just months earlier."
+          "text": "On this date in 2022, the paper 'Emergent Abilities of Large Language Models' was posted to arXiv, naming a phenomenon researchers had noticed but not yet systematized: capabilities that appear sharply at scale rather than gradually."
         },
         {
-          "text": "The entire English Wikipedia is roughly 4GB of text. GPT-3 was trained on approximately 45TB of filtered web data — about 11,000 Wikipedias — and that figure looks modest compared to models trained afterward."
+          "text": "AlphaFold2 predicted structures for over 200 million proteins — essentially the entire UniProt database — at a cost that would have taken wet-lab crystallography roughly 1,000 years of researcher time."
         },
         {
-          "text": "Backpropagation was described in a 1974 PhD thesis by Paul Werbos, ignored for over a decade, and only became foundational after Rumelhart, Hinton, and Williams independently republished it in 1986."
+          "text": "The original transformer in 'Attention Is All You Need' had 65 million parameters and was trained on 4.5 million sentence pairs. GPT-4 is estimated to be roughly 10,000 times larger by parameter count."
         },
         {
-          "text": "AlphaFold2 predicted structures for over 200 million proteins in 2022 — essentially the entire known protein universe. The experimental databases accumulated those structures over 50 years; the inference run took weeks."
+          "text": "RLHF, the technique that made ChatGPT feel usable, was first applied to language models in a 2019 OpenAI paper on summarization — three years before most people encountered its effects."
         }
       ]
     }
