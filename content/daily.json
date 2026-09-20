@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-19T09:38:49.394Z",
+  "generatedAt": "2026-09-20T09:54:25.722Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1991, hikers discovered Ötzi the Iceman in the Alps — but initially reported him to Austrian authorities. The body actually lay in Italian territory, a boundary only confirmed by GPS survey four years later."
+          "text": "On this date in 1519, Magellan's fleet left Spain to circumnavigate the globe. Only one of his five ships returned — and Magellan himself never made it."
         },
         {
-          "text": "On this date in 1955, Argentina's President Perón was ousted by a military coup and fled to Paraguay. He returned 18 years later, won the presidency again, and died in office — the only leader to hold power across such a gap."
+          "text": "On this date in 1973, Billie Jean King beat Bobby Riggs in the Battle of the Sexes. Riggs had boasted no woman could beat him; 90 million people watched him lose."
         },
         {
-          "text": "More people live inside a circle drawn 4,000 km around Dhaka, Bangladesh than live outside it. That single radius captures roughly half of all humanity."
+          "text": "More people live inside a circle drawn 4,000 km around Bangladesh than outside it — over half of humanity fits within that single boundary."
         },
         {
-          "text": "The city of Chongqing, China, has more residents than Australia, Canada, and the Netherlands combined — yet most Westerners cannot locate it on a map."
+          "text": "Canada has more lakes than every other country on Earth combined, holding about 20% of the world's fresh surface water within its borders."
         },
         {
-          "text": "Monaco is so densely populated that if the entire United States held the same density, its population would exceed 40 trillion people — more than 5,000 times every human who has ever lived."
+          "text": "The entire population of Australia could fit inside the city limits of Tokyo, with room to spare — Tokyo's metro area holds more people than all of Australia."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this date in 1873, Jay Cooke & Company collapsed, triggering a US bank panic so severe that the New York Stock Exchange closed for 10 days — still the longest shutdown in its history."
+          "text": "On this date in 1873, the New York Stock Exchange closed for 10 days after Jay Cooke & Co. collapsed — the first time the exchange ever shut down due to a financial panic."
         },
         {
-          "text": "On September 19, 2008, the SEC temporarily banned short-selling on 799 financial stocks. The affected shares fell harder than the broader market once the ban lifted."
+          "text": "On this date in 2008, the SEC temporarily banned short-selling on 799 financial stocks, one of the most sweeping market interventions in Wall Street history."
         },
         {
-          "text": "The entire global bond market is roughly $130 trillion — about 1.3 times the size of global GDP, and nearly three times larger than all stock markets combined."
+          "text": "The Dutch East India Company, often cited as the world's first publicly traded company, was at its peak worth roughly $8 trillion in today's dollars — more than Apple, Microsoft, and Nvidia combined."
         },
         {
-          "text": "Warren Buffett's Berkshire Hathaway collects so much cash from insurance float that it essentially borrows billions at negative cost, then invests it at full return."
+          "text": "Warren Buffett's Berkshire Hathaway owns enough of Coca-Cola that its annual dividend alone — around $776 million — exceeds what Buffett originally paid for the entire stake."
         },
         {
-          "text": "The tulip mania peak of 1637 is routinely overstated — most Dutch never traded bulbs. The actual market was small, illiquid, and collapsed in a single February weekend."
+          "text": "The S&P 500 has historically risen in the month of October so often after a bad September that traders call the turnaround the 'October Effect' — though statistically, October is actually one of the more volatile months, not a reliable rebound."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1988, Israel launched its first satellite, Ofeq-1 — orbiting west-to-east against Earth's rotation to avoid debris from its own rocket falling on neighboring countries."
+          "text": "On this date in 1519, Magellan's fleet left Spain to circumnavigate the Earth. His ships carried no way to measure longitude accurately — they navigated by stars, gut instinct, and survived mostly by luck."
         },
         {
-          "text": "On September 19, 1991, hikers discovered Ötzi the Iceman in the Alps. His last meal, eaten an hour before he was murdered, included ibex, einkorn wheat, and red deer."
+          "text": "Today in 1854, the Battle of Alma proved that cholera killed more soldiers than combat did. Germ theory didn't yet exist; armies thought bad air was the culprit."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its matter would weigh roughly a billion tons on Earth."
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh roughly a billion tons on Earth."
         },
         {
-          "text": "Your body replaces the lining of your stomach every four to five days — it has to, or your digestive acid would dissolve the organ itself."
+          "text": "Your body replaces the lining of your small intestine every two to four days. The organ doing most of your digestion is, in a meaningful sense, younger than your phone's last software update."
         },
         {
-          "text": "Voyager 1 is so far away that its radio signals, traveling at the speed of light, take over 22 hours to reach Earth. It left the solar system before most people working at NASA today were born."
+          "text": "Light leaving the Sun takes eight minutes to reach Earth, but spent roughly 100,000 years fighting its way from the Sun's core to its surface before that sprint even began."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1991, hikers discovered Ötzi the Iceman in the Alps — a man who died 5,300 years ago, older than Stonehenge and the Egyptian pyramids."
+          "text": "On this day in 1519, Magellan's fleet left Spain to circumnavigate the globe. He never made it back — but his slave, Enrique of Malacca, likely completed the full circle first."
         },
         {
-          "text": "On this day in 1783, the Montgolfier brothers launched history's first balloon passengers: a sheep, a duck, and a rooster."
+          "text": "Oxford University is older than the Aztec Empire. Teaching began at Oxford around 1096; Tenochtitlan wasn't founded until 1325."
         },
         {
-          "text": "The fax machine was patented in 1843 — 23 years before the first transatlantic telegraph cable worked, and 44 years before the telephone reached mass use."
+          "text": "On this day in 1973, Billie Jean King defeated Bobby Riggs in the Battle of the Sexes. Riggs had beaten the world's top female player months earlier — King practiced by playing men."
         },
         {
-          "text": "Oxford University was teaching students before the Aztec Empire existed. Oxford dates to 1096; Tenochtitlán wasn't founded until 1325."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. The pyramid is roughly 2,500 years older than she is."
         },
         {
-          "text": "Nintendo was founded in 1889, when Grover Cleveland was U.S. president. It spent its first century selling playing cards before pivoting to video games."
+          "text": "The fax machine was patented in 1843 — 33 years before Alexander Graham Bell patented the telephone. You could send a document before you could make a call."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012 — too precise to stay invented."
+          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in 'The Dictionary of Obscure Sorrows,' 2012. Now it feels like it always existed."
         },
         {
-          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed. The word fuses homesickness, grief, and nostalgia into a single sound English has never managed to replicate."
+          "text": "Hiraeth (Welsh, n.): a homesickness for a home you cannot return to, or perhaps never had. Untranslatable in one word to English, it carries grief, longing, and belonging simultaneously."
         },
         {
-          "text": "On this day in 1796, Washington's Farewell Address was published — introducing 'entangling alliances' to the political lexicon, a phrase Jefferson actually sharpened before it became doctrine."
+          "text": "On this day in 1519, Magellan's fleet departed Sanlúcar de Barrameda. The Portuguese verb 'magellanizar' briefly existed, meaning to circumnavigate — a verb built from a man before he'd done the thing."
         },
         {
-          "text": "Mamihlapinatapai: a Yaghan word from Tierra del Fuego meaning a look shared by two people who both wish the other would initiate something. Linguists call it one of the most succinct words ever recorded."
+          "text": "Petrichor (n.): the smell of rain on dry earth. Coined in 1964 by Australian scientists Isabel Joy Bear and Richard Thomas, from Greek 'petra' (stone) and 'ichor,' the fluid in the veins of gods."
         },
         {
-          "text": "On this day in 1783, the Montgolfier brothers' balloon carried its first passengers — a sheep, a duck, and a rooster — before French acquired the word 'aéronaute' to describe the humans who followed."
+          "text": "On this day in 1187, Saladin began the siege of Jerusalem. Arabic preserves the moment: 'fatah' means both conquest and opening — the same word for breaking a city and parting a door."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2017, China's central bank declared ICOs illegal and ordered all fundraised funds returned — wiping out billions in token valuations within 48 hours and accelerating the migration of Chinese crypto firms to Hong Kong and Singapore."
+          "text": "On this date in 2017, China's central bank declared ICOs illegal, triggering a 40% Bitcoin price drop within days — and yet every project banned that week was outperformed by BTC itself within 18 months."
         },
         {
-          "text": "On this date in 2022, Ethereum completed The Merge, switching from proof-of-work to proof-of-stake and cutting the network's energy consumption by approximately 99.95% — without halting a single block."
+          "text": "On this date in 2021, El Salvador's Bitcoin Law survived its first Constitutional Chamber challenge, cementing the first sovereign legal-tender experiment in crypto history."
         },
         {
-          "text": "Bitcoin's 21 million supply cap is enforced by code, not consensus: a 2010 overflow bug briefly created 184 billion BTC in one transaction before Satoshi patched it within hours and the chain was manually rolled back."
+          "text": "Ethereum's EIP-1559, deployed in August 2021, has since burned over 4 million ETH permanently — turning a pure inflationary asset into one with a mechanically deflationary supply pressure during high-demand periods."
         },
         {
-          "text": "The gas limit on Ethereum is not fixed — it's a moving average adjusted block-by-block based on miner and validator votes, meaning the network's throughput capacity is continuously negotiated in real time."
+          "text": "Satoshi's original Bitcoin whitepaper never uses the word 'blockchain' — the term is a folk contraction of 'chain of blocks' that emerged organically from the developer community after 2010."
         },
         {
-          "text": "Satoshi Nakamoto's known wallets hold roughly 1.1 million BTC that have never moved — making them the most-watched addresses in financial history and a de facto proof-of-life signal for Bitcoin's pseudonymous creator."
+          "text": "The largest single Bitcoin transaction by value was 500,000 BTC moved in November 2011 for a fee of 0.01 BTC — a transfer that would be uneconomical to replicate today purely due to fee market evolution."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2017, Libratus—a Carnegie Mellon poker AI—had already finished its 20-day demolition of four top human heads-up no-limit Texas Hold'em players, winning $1.77M in chips. It invented bluffing strategies its creators had never programmed."
+          "text": "On this date in 2017, Google Brain published 'Attention Is All You Need' — the transformer paper. Every major language model today descends from that single architecture."
         },
         {
-          "text": "On this date in 2022, papers confirming Gato's existence were four months old. DeepMind's 1.2B-parameter generalist agent played Atari, captioned images, and stacked real blocks—same weights, no task-specific fine-tuning."
+          "text": "Today in 2022, DeepMind's AlphaFold database hit 200 million predicted protein structures, covering nearly every known organism — a task structural biology estimated would take centuries by hand."
         },
         {
-          "text": "The GPT-4 training run is estimated to have consumed roughly 50 GWh of electricity—enough to power about 4,600 average US homes for a year. That figure predates inference costs, which now dwarf training at scale."
+          "text": "GPT-4 was trained on roughly 25,000 A100 GPUs running for ~90 days. The electricity alone cost an estimated $63 million at US commercial rates."
         },
         {
-          "text": "Transformers have no built-in notion of sequence order. Positional encodings are a retrofit—an acknowledgment that the attention mechanism itself is entirely permutation-invariant and would treat a sentence the same forwards or backwards without them."
+          "text": "The first neural network to beat humans at Go, AlphaGo, did so in 2016 using a technique — Monte Carlo tree search guided by learned value functions — that its creators initially considered unpromising."
         },
         {
-          "text": "AlphaFold 2 predicted structures for ~200 million proteins in 2022. The entire prior corpus of experimentally determined structures, accumulated over 50 years of crystallography and NMR work, covered roughly 180,000."
+          "text": "Modern frontier LLMs can pass the US bar exam in the 90th percentile yet fail trivially rephrased versions of grade-school math problems — a gap that has no clean explanation."
         }
       ]
     }
