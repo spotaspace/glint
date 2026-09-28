@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-27T10:38:40.869Z",
+  "generatedAt": "2026-09-28T11:51:11.998Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1825, the world's first public steam railway opened in England — the Stockton and Darlington line. It ran at 15 mph, and locals assumed the speed would suffocate passengers."
+          "text": "On this date in 1066, William the Conqueror landed in England — permanently shifting the English language. About 30% of modern English words trace directly to the Norman French his invasion introduced."
         },
         {
-          "text": "On this date in 1938, Hitler, Mussolini, Chamberlain, and Daladier signed the Munich Agreement, handing Czechoslovakia's Sudetenland to Germany without a single Czech official in the room."
+          "text": "On this date in 1994, the ferry Estonia sank in the Baltic Sea, killing 852 people. It remains Europe's deadliest peacetime maritime disaster since WWII, yet it happened just 22 miles from Swedish waters."
         },
         {
-          "text": "The Philippines contains more than 7,600 islands, yet over half the country's population lives on just 11 of them. The remaining thousands are largely uninhabited."
+          "text": "Monaco is so densely packed — 26,000 people per square kilometer — that if the entire world lived at that density, every human on Earth would fit inside the state of Rhode Island."
         },
         {
-          "text": "Tokyo's greater metro area holds 37 million people — more than the entire population of Canada — yet its violent crime rate is lower than Zurich's."
+          "text": "More people live in Tokyo's greater metropolitan area than in all of Canada. At 37 million residents, it is the largest urban agglomeration in recorded human history."
         },
         {
-          "text": "Niger has the world's highest fertility rate at roughly 6.9 births per woman. Its population is projected to surpass the United States by the end of this century."
+          "text": "The Maldives has the lowest average elevation of any country on Earth — just 1.8 meters above sea level. Its entire national territory could be rendered uninhabitable within a single human lifetime."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this date in 1998, Long-Term Capital Management's $3.6B bailout closed — a hedge fund run by two Nobel laureates that nearly collapsed the global financial system by betting on convergence trades that refused to converge."
+          "text": "On this date in 1929, the London Stock Exchange suspended trading after panic selling spread from New York — a week before Black Tuesday made the crash official history."
         },
         {
-          "text": "On this date in 1907, a banking panic froze credit across the U.S., ultimately forcing J.P. Morgan to personally lock rival bankers in his library until they agreed to pool capital and stop the collapse."
+          "text": "On this date in 2008, the U.S. House rejected the $700B TARP bailout, triggering the single largest point drop in Dow history at the time: 777 points in one session."
         },
         {
-          "text": "The S&P 500 has closed higher on the day after Thanksgiving more than 80% of the time since 1950 — not because of shopping optimism, but because trading volume collapses and sellers simply stay home."
+          "text": "The NYSE's famously chaotic open-outcry trading floor was, until the 1870s, conducted entirely outdoors on the sidewalk of Wall Street."
         },
         {
-          "text": "Berkshire Hathaway was originally a failing textile mill. Warren Buffett later admitted buying it was his worst investment decision — the sentimental purchase cost him an estimated $200 billion in compounded opportunity."
+          "text": "Saudi Aramco briefly surpassed $2 trillion in market cap on its 2019 IPO day — then spent the next three years below that figure, making the milestone mostly ceremonial."
         },
         {
-          "text": "The Dutch East India Company, history's first publicly traded corporation, was so profitable at its peak that its inflation-adjusted market cap exceeds every company alive today, including Apple and Saudi Aramco."
+          "text": "The term 'bear market' likely traces to 18th-century bearskin traders who sold pelts they didn't yet own, betting prices would fall before delivery — short selling by another name."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1905, Einstein submitted his paper on E=mc². The equation didn't appear in that paper — it arrived in a quiet follow-up three months later."
+          "text": "On this date in 1889, the international kilogram prototype was officially sanctioned — a cylinder of platinum-iridium that defined mass for 130 years until a 2019 vote replaced it with a fixed mathematical constant."
         },
         {
-          "text": "On this date in 1998, Google was incorporated. The name was a misspelling of 'googol,' chosen because the domain was already taken."
+          "text": "On this date in 2003, the SMART-1 spacecraft left Earth using an ion thruster, accelerating by firing charged xenon atoms — the same physics that governs a rocket, but so gentle it took 13 months to reach the Moon."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh about a billion tons on Earth."
+          "text": "Your skeleton is not static. Osteoclasts dissolve old bone while osteoblasts rebuild it, replacing your entire skeleton roughly every decade."
         },
         {
-          "text": "Your body replaces roughly 3.8 million cells every second, yet the process is so orderly that your identity — down to your fingerprints — remains intact across decades."
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its matter would weigh about a billion tons on Earth."
         },
         {
-          "text": "Light from the Sun takes 8 minutes to reach Earth, but the photons themselves were generated in the solar core up to 100,000 years ago, trapped there by sheer density."
+          "text": "The mantis shrimp sees with 16 types of color receptors — humans have 3 — yet research shows it processes color worse than we do, suggesting more channels does not mean richer perception."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1825, the world's first public steam railway opened in England. It is older than the photograph, the postage stamp, and the word 'scientist.'"
+          "text": "On this day in 1066, William the Conqueror landed in England. The Norman invasion he launched is closer in time to the fall of Rome than it is to us today."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid."
+          "text": "Cleopatra lived closer to the Moon landing than to the construction of the Great Pyramid. The pyramid is simply that old."
         },
         {
-          "text": "On this day in 1540, the Jesuits received papal approval — a religious order now older than the fork becoming common table etiquette in Europe."
+          "text": "On this day in 1928, Alexander Fleming noticed mold killing bacteria in a petri dish. He almost discarded the plate."
         },
         {
-          "text": "The fax machine was invented in 1843, before the American Civil War. Your grandparents may have used one in an office."
+          "text": "The fax machine was patented in 1843, before the American Civil War, before the telephone, and a full 26 years before the transcontinental railroad was completed."
         },
         {
-          "text": "Oxford University was teaching students before the Aztec Empire existed. It predates the institution it would eventually outlast by two centuries."
+          "text": "On this day in 1542, Juan Rodríguez Cabrillo became the first European to set foot on the California coast. Los Angeles would not be a U.S. city for another 307 years."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012. Now it travels faster than most words with centuries behind them."
+          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in 2012, it spread so fast it feels ancient."
         },
         {
-          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed. Untranslatable because English has no word for nostalgia laced with grief and the sense that belonging itself is lost."
+          "text": "Hiraeth (Welsh): a homesickness for a home you cannot return to — or one that never existed. No single English word comes close."
         },
         {
-          "text": "On this day in 1825, the Stockton and Darlington Railway opened — and the word 'commuter' didn't yet exist. It arrived decades later from railroad season-ticket holders who 'commuted' their daily fares into a single discounted payment."
+          "text": "On this day in 1066, William the Conqueror landed at Pevensey. He brought Norman French with him, and English has never recovered — nearly half its vocabulary still bears the wound."
         },
         {
-          "text": "Petrichor (n.): the smell of rain on dry earth. Named in 1964 by Australian scientists Bear and Thomas, who combined the Greek petra (stone) and ichor, the fluid said to flow through the veins of the gods."
+          "text": "Vellichor (n.): the strange wistfulness of used bookshops. Another Koenig coinage, yet it names something everyone has felt and no older language bothered to capture."
         },
         {
-          "text": "On this day in 1998, Google was incorporated — giving the verb 'to google' a lifespan measurable in years, not centuries. The Oxford English Dictionary added it as a lowercase verb in 2006, one of the fastest descents from proper noun to common tongue on record."
+          "text": "On September 28, 1928, Alexander Fleming noticed mold killing bacteria in a petri dish. The word 'antibiotic' — from Greek anti + bios, against life — was coined a decade later by Selman Waksman."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2022, Ethereum completed The Merge, switching from proof-of-work to proof-of-stake and cutting the network's energy consumption by roughly 99.95% overnight."
+          "text": "On this date in 2022, Ethereum completed its merge from proof-of-work to proof-of-stake, cutting the network's energy consumption by ~99.95% overnight — the largest infrastructure migration in crypto history."
         },
         {
-          "text": "On this date in 2021, El Salvador's Bitcoin Law had been in force for 26 days — the government had already bought 550 BTC using public funds before a single citizen opened the Chivo wallet."
+          "text": "On Sept 28, 2021, the EU Parliament's ECON committee voted down a proposed PoW mining ban that would have effectively outlawed Bitcoin in Europe."
         },
         {
-          "text": "Bitcoin's smallest unit, the satoshi, wasn't named by Satoshi Nakamoto. The community voted on the name in a 2010 Bitcointalk thread, and Satoshi never commented on it."
+          "text": "Bitcoin's 21 million supply cap is enforced by integer arithmetic, not policy. Miners receive block subsidies in satoshis; the halving loop simply shifts a bit right until the reward rounds to zero around 2140."
         },
         {
-          "text": "The DAO hack in 2016 didn't steal ether — it legitimately called a recursive withdrawal function the contract's own code permitted. Ethereum's hard fork was the irregular act, not the exploit."
+          "text": "The DAO hack of 2016 drained 3.6 million ETH through a reentrancy bug — the attacker's funds sat locked for weeks because The DAO's own code imposed a 28-day withdrawal delay, giving Ethereum time to fork."
         },
         {
-          "text": "Every Bitcoin block header is only 80 bytes. The entire proof-of-work security of a $1 trillion network is anchored to a data structure smaller than a tweet."
+          "text": "Satoshi's genesis block coinbase contains the text 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks' — both a timestamp and a statement of intent, embedded permanently in Bitcoin's chain."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2015, Shazam published the paper describing its neural audio fingerprinting system — but Shazam's core algorithm predates deep learning entirely, matching songs via combinatorial hash lookup since 2002."
+          "text": "On this date in 2015, Google DeepMind's Atari paper appeared in Nature — the first time a single agent matched human performance across 49 games using only raw pixels and reward signals, no hand-crafted features."
         },
         {
-          "text": "Today in 2023, Microsoft confirmed Bing Chat had quietly surpassed 1 billion chat turns. The milestone arrived with no press release — the number emerged in an earnings call footnote."
+          "text": "On this date in 2022, DeepMind released AlphaTensor, which discovered matrix multiplication algorithms faster than any known to mathematicians — solving a problem open since Strassen's 1969 breakthrough."
         },
         {
-          "text": "GPT-4's training compute is estimated at around 2.15×10²⁵ FLOP. That is roughly 10,000 times the compute used to train GPT-2, released just four years earlier."
+          "text": "GPT-4's training run is estimated to have consumed roughly 50 gigawatt-hours of electricity — comparable to the annual consumption of 4,500 average US households, for a single model training pass."
         },
         {
-          "text": "Transformers were not designed for language first. The 2017 'Attention Is All You Need' paper benchmarked exclusively on machine translation tasks; the architecture's dominance in vision, audio, and code came later as an accident of generalization."
+          "text": "The transformer architecture, now underlying most frontier AI systems, was published in 2017 by eight Google researchers. Six of the eight have since left Google, several to found competing AI labs."
         },
         {
-          "text": "AlphaFold 2 predicted structures for over 200 million proteins — essentially the entire known protein universe — yet the model's weights fit on a single consumer hard drive at under 500 GB."
+          "text": "RLHF — the technique that made ChatGPT feel cooperative rather than erratic — was first demonstrated not on language models but on simulated robot locomotion tasks, in a 2017 OpenAI and DeepMind paper."
         }
       ]
     }
