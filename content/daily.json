@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-07T11:53:37.963Z",
+  "generatedAt": "2026-10-08T12:08:49.850Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1571, the Battle of Lepanto ended Ottoman naval dominance in the Mediterranean — fought by over 400 ships, it remains the largest galley battle in history."
+          "text": "On this date in 1871, the Great Chicago Fire began — but a fire the same night in Peshtigo, Wisconsin killed roughly 2,500 people, making it the deadliest wildfire in U.S. history. Almost nobody remembers it."
         },
         {
-          "text": "On this date in 1985, the Achille Lauro hijacking began. The ship was seized in the Mediterranean by four Palestinian militants, exposing how unprepared the world was for maritime terrorism."
+          "text": "On this date in 1967, Che Guevara was captured in Bolivia. He was executed the next day, aged 39, having never successfully exported revolution to a single country despite becoming the world's most printed face."
         },
         {
-          "text": "More people live inside a circle drawn around Dhaka, Bangladesh than in the entire United States west of the Mississippi River."
+          "text": "More people live inside a circle drawn 4,000 km around Dhaka, Bangladesh than live outside it. That single region contains over half of all humanity."
         },
         {
-          "text": "Vatican City generates more revenue per square meter than any nation on Earth — its museums alone draw over 6 million visitors a year into 0.17 square miles."
+          "text": "Canada has more lakes than every other country on Earth combined — roughly 879,000 of them, holding about 20% of the world's fresh surface water."
         },
         {
-          "text": "Norway owns more electric vehicles per capita than any other country, yet remains one of the world's largest oil exporters — it simply keeps the fossil fuels for everyone else."
+          "text": "The city of Chongqing, China, is administered as a single municipality but covers an area larger than Austria, with a population exceeding 32 million — more than Australia's entire country."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this date in 1987, the Dow had just peaked above 2,700 — within two weeks it would lose 22% in a single day, the largest one-day crash in market history."
+          "text": "On this day in 1987, markets were eerily calm — just nine days before Black Monday wiped 22% from the Dow in a single session, the largest single-day percentage crash in Wall Street history."
         },
         {
-          "text": "On October 7, 1929, investors were still buying the dip. The Great Crash was still three weeks away, and Wall Street analysts were publicly calling the bull market intact."
+          "text": "On October 8, 1929, the Dow hit what analysts called a 'permanently high plateau.' Within three weeks, it had lost a third of its value."
         },
         {
-          "text": "The NYSE's famously chaotic trading floor now executes less than 10% of US equity volume. Most trades happen in windowless data centers in New Jersey."
+          "text": "The Dutch East India Company, history's first publicly traded corporation, was so dominant it once had a market cap equivalent to roughly $8 trillion in today's dollars."
         },
         {
-          "text": "Berkshire Hathaway's original business was a failing textile mill. Buffett later called buying it the worst investment of his life — it cost him roughly $200 billion in opportunity losses."
+          "text": "Warren Buffett's Berkshire Hathaway Class A share has never been split. A single share costs over $700,000, making it the highest-priced stock on any major US exchange."
         },
         {
-          "text": "The Swiss franc is so trusted that during the 2011 eurozone crisis, Switzerland had to peg its currency to the euro to stop it from appreciating into economic ruin."
+          "text": "The London Stock Exchange was founded in a coffee house. Jonathan's Coffee House on Exchange Alley was where brokers met to trade shares in the 1690s before formalizing in 1801."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1958, NASA officially opened for business. The agency was created in direct response to Sputnik's launch exactly one year prior, born from pure Cold War panic."
+          "text": "On this date in 1604, Kepler observed a supernova visible in daylight for weeks. We now know its remnant is expanding at 11 million mph — and still accelerating."
         },
         {
-          "text": "On this date in 2001, anthrax-laced letters began killing people in the US. The spores used were later traced to a US Army biodefense lab — the attack came from inside the building."
+          "text": "On this date in 1871, the Great Chicago Fire ignited. Across the lake that same night, the Peshtigo fire killed ten times more people and is still the deadliest in US history."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its material would weigh roughly a billion tons on Earth."
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh about a billion tons on Earth."
         },
         {
-          "text": "Your body replaces the lining of your small intestine every two to four days. The organ most responsible for keeping you alive is also one of the fastest self-destructing things in nature."
+          "text": "Your body contains roughly 37 trillion cells, yet 90% of the DNA inside you belongs to microbes. You are, by gene count, mostly not human."
         },
         {
-          "text": "Light from the Sun takes eight minutes to reach Earth, but took roughly 100,000 years to fight its way from the Sun's core to its surface before that journey even began."
+          "text": "Light takes 8 minutes to reach Earth from the Sun, but the photons themselves were generated in the solar core up to 100,000 years ago, slowly fighting their way out."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1571, the Battle of Lepanto ended Ottoman naval dominance in the Mediterranean — fought the same year Shakespeare turned seven."
+          "text": "On this day in 1871, the Great Chicago Fire began — the same night a firestorm killed twice as many people 250 miles north in Peshtigo, Wisconsin. History remembers the city; it forgot the 2,500 dead."
         },
         {
-          "text": "Nietzsche finished *Thus Spoke Zarathustra* in 1883, closer in time to the Battle of Waterloo than to today."
+          "text": "On this day in 1967, Che Guevara was captured in Bolivia. He was executed the next morning without trial, aged 39 — younger than most people are when they first read his biography."
         },
         {
-          "text": "On this day in 1985, the Achille Lauro hijacking began. The ship's passenger list included more survivors of WWII than victims of the hijacking itself."
+          "text": "The fax machine was patented in 1843, making it older than the telephone by 33 years. Alexander Graham Bell was not yet born when someone successfully transmitted a document over wire."
         },
         {
-          "text": "The Library of Alexandria was already ancient history by the time the Roman Colosseum was built — Romans lived closer to us than they did to the pyramids' construction."
+          "text": "The University of Oxford began teaching in 1096. When the Aztec Empire was founded in 1428, Oxford had already been educating students for over 300 years."
         },
         {
-          "text": "Oxford University began teaching students before the Aztec Empire existed. When Montezuma I took power in 1440, Oxford had been running for over three centuries."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She and Neil Armstrong are separated by 2,000 years; she and Khufu by 2,500."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Saudade (Portuguese): a melancholic longing for something beloved and gone. Linguists consider it untranslatable — a whole emotional climate compressed into eight letters."
+          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012. It spread fast because it named something previously nameless."
         },
         {
-          "text": "Hiraeth (Welsh): homesickness for a home you cannot return to, or never had. The word carries grief, nostalgia, and yearning simultaneously, with no English equivalent."
+          "text": "Mamihlapinatapai: a Yaghan word meaning a look shared between two people who both want something but won't initiate it. Linguists consider Yaghan, spoken on Tierra del Fuego, functionally extinct — one native speaker remained as of 2022."
         },
         {
-          "text": "On this date in 1571, the Battle of Lepanto was fought — and Miguel de Cervantes called it 'the most noble occasion that past or present ages have seen.' He lost use of his left hand there."
+          "text": "On this date in 1871, the Great Chicago Fire began. The city rebuilt so fast that architects invented the skyscraper there within 15 years. The German word for this urgency: Torschlusspanik — gate-closing panic, the fear that time is running out."
         },
         {
-          "text": "Meraki (Greek): the soul poured into your work. When a craftsman loses himself in what he's making, Greeks have a single word for that dissolving of self into effort."
+          "text": "On October 8, 1965, the Post Office Tower opened in London. The Finnish word torschlusspanik has a cousin: myötähäpeä, meaning second-hand embarrassment — feeling shame on behalf of someone who feels none themselves."
         },
         {
-          "text": "On this date in 1849, Edgar Allan Poe died — his final word, reportedly, was 'Reynolds,' a name nobody has ever satisfactorily explained."
+          "text": "Vellichor (n.): the strange wistfulness of used bookshops, also from Koenig's Dictionary of Obscure Sorrows. No ancient root — just a sound that felt old. Sometimes a word earns its place not by age but by precision."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2021, the SEC rejected VanEck's Bitcoin ETF application for the fourth time — citing manipulation concerns in spot markets. The approval finally came in January 2024, after 11 years of industry attempts."
+          "text": "On this date in 2016, The DAO attacker began moving stolen ETH through a child DAO — exploiting the same 30-day lock-up that was meant to protect victims, buying time that ultimately forced Ethereum's contentious hard fork."
         },
         {
-          "text": "On this date in 2013, Silk Road was seized by the FBI. The 144,000 BTC confiscated — then worth ~$28M — were later auctioned by the U.S. Marshals Service, partly to Tim Draper."
+          "text": "On this date in 2021, Coinbase's direct listing had already repriced Bitcoin's institutional legitimacy: its S-1 disclosed 56 million verified users before a single share traded on Nasdaq."
         },
         {
-          "text": "Bitcoin's timelock opcode OP_CHECKLOCKTIMEVERIFY was only added in 2015 via BIP 65. Before it existed, time-locked transactions were technically possible but required trusting miners not to include them early."
+          "text": "Bitcoin's timelock script opcode, OP_CHECKLOCKTIMEVERIFY, was dormant in the codebase for years before BIP 65 activated it in 2015 — the original code comment read 'reserved for future use.'"
         },
         {
-          "text": "Ethereum's gas limit is set by miners — now validators — not by protocol hard-code. Every block, the proposer can move it 1/1024th up or down, making block capacity a continuous on-chain negotiation."
+          "text": "Satoshi's genesis block coinbase contains the text 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks' — a timestamp, a political statement, and proof no coins were premined before that date."
         },
         {
-          "text": "The largest single Bitcoin transaction by value occurred in November 2011: 500,000 BTC moved in one transfer. At 2024 peak prices, that single UTXO represented over $47 billion in notional value."
+          "text": "Ethereum's EIP-1559 has permanently burned over 4 million ETH since August 2021, making the network's monetary policy directly sensitive to gas demand — more activity, more deflation."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 1950, Alan Turing's 'Computing Machinery and Intelligence' was published in Mind — introducing the imitation game 76 years before the models it described became mundane infrastructure."
+          "text": "On this date in 1997, Garry Kasparov formally submitted his protest over Deep Blue's move 36 in Game 2 — a move IBM later confirmed was chosen by a bug, not genius. It may have broken him psychologically anyway."
         },
         {
-          "text": "On this date in 2015, Google announced it had begun using RankBrain, a machine-learned ranking signal, in all search queries — the first time a learned system had been trusted with 100% of Google's core product."
+          "text": "On this date in 2010, the ImageNet Large Scale Visual Recognition Challenge held its second competition. The winning error rate was 28%. Two years later AlexNet would cut that to 16%, triggering the modern deep learning era."
         },
         {
-          "text": "GPT-4's training run is estimated to have consumed roughly 50 gigawatt-hours of electricity — comparable to the annual consumption of 4,500 average US households, spent to produce a single set of weights."
+          "text": "GPT-4's training run is estimated to have consumed roughly 50 GWh of electricity — comparable to the annual consumption of 4,500 average US homes, for a single model trained once."
         },
         {
-          "text": "The 2017 Transformer paper ('Attention Is All You Need') was rejected from a top venue before publication. Its eight authors have since collectively accumulated citation counts exceeding 200,000 from that single paper."
+          "text": "Transformers were introduced in 2017 with 65 million parameters. Seven years later, frontier models are estimated at one to two trillion. That is a 15,000-fold increase in about the time it takes to finish a PhD."
         },
         {
-          "text": "AlphaFold 2 predicted structures for over 200 million proteins — essentially the entire known protein universe — in roughly 18 months. Experimental biology had accumulated ~170,000 structures across the prior six decades."
+          "text": "Reinforcement learning from human feedback (RLHF) was not invented for language models. The core technique was published in 2017 for video game agents, and its authors did not anticipate it would later dominate how chatbots are aligned."
         }
       ]
     }
