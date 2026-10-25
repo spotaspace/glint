@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-24T09:40:53.344Z",
+  "generatedAt": "2026-10-25T09:58:19.243Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1945, the United Nations officially came into existence — yet its founding document, the UN Charter, had already been signed four months earlier in San Francisco by nations that included countries still under colonial rule."
+          "text": "On this day in 1415, the Battle of Agincourt saw ~6,000 exhausted English troops defeat a French force three times their size — a victory so lopsided it reshaped European power for a generation."
         },
         {
-          "text": "On this date in 1648, the Peace of Westphalia ended the Thirty Years War and invented the modern concept of national sovereignty — a diplomatic idea now so foundational that it shapes every border dispute on Earth."
+          "text": "On this day in 1983, the US invaded Grenada, an island of 91,000 people, deploying over 7,000 troops — more soldiers than the island had permanent residents old enough to vote."
         },
         {
-          "text": "Manila is the world's most densely populated city proper, packing over 111,000 people per square kilometer — nearly double the density of Dhaka and more than ten times that of New York City."
+          "text": "Manila is the world's most densely populated city proper, packing roughly 111,000 people per square kilometer — denser than any place on Earth with a population above one million."
         },
         {
-          "text": "More people live inside a circle drawn around Dhaka with a 1,000 km radius than in the entire Western Hemisphere."
+          "text": "Canada has more lakes than every other country on Earth combined, holding about 60% of the world's fresh surface lake water within its borders."
         },
         {
-          "text": "Canada has more lakes than every other country on Earth combined, holding roughly 60% of the world's fresh surface water in lake form — yet two-thirds of Canadian municipalities rely on groundwater for drinking."
+          "text": "The city of Chongqing, China, has a larger population than Australia. Its municipality — a single administrative unit — holds over 32 million people."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this date in 1929, the New York Stock Exchange suffered 'Black Thursday' — 12.9 million shares traded in a single day of panic, nearly triple the norm, triggering the crash that erased $30 billion in market value within weeks."
+          "text": "On this day in 1929, 'Black Sunday' preceded Black Tuesday by 48 hours — panicked investors jammed phone lines so completely that brokers couldn't execute sell orders, accelerating the very crash they were trying to escape."
         },
         {
-          "text": "On October 24, 1857, every bank in the United States suspended specie payments simultaneously — the first truly national financial panic, caused largely by collapsing railroad speculation and a single failed Ohio bank."
+          "text": "On this day in 2001, Apple launched the first iPod at $399 — more than a modern iPhone adjusted for inflation. Analysts called it overpriced. It went on to save the company."
         },
         {
-          "text": "The S&P 500 has historically risen in the six months following a U.S. midterm election every single time since 1950 — a streak so consistent it has its own name among analysts: the midterm miracle."
+          "text": "The New York Stock Exchange was founded in 1792 under a buttonwood tree, but the famously chaotic trading floor it became known for is now largely silent — over 90% of NYSE trades are executed electronically."
         },
         {
-          "text": "Warren Buffett's Berkshire Hathaway holds more U.S. Treasury bills than the Federal Reserve itself — over $300 billion in cash equivalents as of 2025, a sum larger than the GDP of Portugal."
+          "text": "Saudi Aramco's 2019 IPO raised $25.6 billion, the largest in history — yet the company sold less than 2% of itself, valuing the whole enterprise at $1.7 trillion while barely letting go of the wheel."
         },
         {
-          "text": "The Dutch East India Company, history's first publicly traded corporation, was so dominant at its peak that it employed 50,000 people, maintained a private army, and its inflation-adjusted market cap exceeded $8 trillion."
+          "text": "The U.S. penny costs about 3.7 cents to produce. The government loses money on every single one, and has for over a decade, yet continues minting roughly 4 billion annually."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1946, a camera aboard a captured V-2 rocket took the first photograph of Earth from space — a grainy black-and-white image shot from 65 miles up, changing forever how humanity pictured its home."
+          "text": "On this date in 1671, Giovanni Cassini discovered Iapetus, Saturn's two-toned moon — one hemisphere is jet black, the other bone white, a contrast so stark early astronomers thought the moon only existed on one side."
         },
         {
-          "text": "Your skeleton is not the rigid scaffold it appears. Bone is living tissue that completely replaces itself every decade, and it responds to mechanical stress by growing denser, like a muscle."
+          "text": "Your skeleton is not the same one you had ten years ago. Bone cells replace themselves continuously; most of your skeleton is younger than a decade."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its material would weigh roughly a billion tons on Earth."
+          "text": "Light from the Sun takes 8 minutes to reach Earth, but the photons themselves were generated in the Sun's core up to 100,000 years ago, crawling outward before their final 8-minute sprint."
         },
         {
-          "text": "On this date in 1929, the stock market began its historic collapse — but the shockwave traveled at the speed of human panic, not light. Modern financial contagion can now circle the globe in 40 milliseconds via fiber optic cables."
+          "text": "On this date in 1955, the original Disneyland castle was repainted — a footnote, but the pink hue was chosen because human eyes perceive pink as receding, making the structure look taller than it is."
         },
         {
-          "text": "The human eye can detect a single photon in absolute darkness. Your visual system is not limited by biology — it is limited by the quantum nature of light itself."
+          "text": "A teaspoon of neutron star material weighs roughly a billion tons. Neutron stars are so dense that a sugar-cube-sized chunk would outweigh every human who has ever lived."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1945, the United Nations officially came into existence — younger than many people alive today, and younger than the Slinky, which launched the previous week."
+          "text": "On this day in 1415, Henry V won Agincourt. The longbowmen who shattered French cavalry were using a weapon older than the battle by 30,000 years."
         },
         {
-          "text": "The fax machine was patented in 1843, twenty-three years before the first transatlantic telegraph cable worked reliably. You could fax before you could reliably wire-telegraph across an ocean."
+          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. Medieval England had tenure before Tenochtitlán had walls."
         },
         {
-          "text": "On this day in 1929, Black Thursday opened on Wall Street. The traders who caused the crash were, on average, younger than the S&P 500 index is now."
+          "text": "On this day in 1854, the Charge of the Light Brigade killed 110 men in 20 minutes. Tennyson published his poem about it 42 days later."
         },
         {
-          "text": "Oxford University was already three centuries old when the Aztec Empire was founded. It was teaching students before Tenochtitlán was a blueprint."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She was as ancient to Caesar as Caesar is to us."
         },
         {
-          "text": "Nintendo was incorporated in 1889, making it older than commercial air travel, the zipper, and the nation of Finland — it started as a playing card company and outlasted empires."
+          "text": "The fax machine was patented in 1843 — before anyone had laid a mile of railroad track in Africa. You could have faxed someone about the Oregon Trail."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Meraki (μεράκι): Greek for doing something with soul, creativity, and love — leaving a piece of yourself in your work. There is no clean English equivalent, which says something about English."
+          "text": "**Sonder** (n.) — the sudden realization that every passerby has a life as vivid and complex as your own. Coined by John Koenig in *The Dictionary of Obscure Sorrows*, 2012. Already outpaces many centuries-old words in daily use."
         },
         {
-          "text": "Hiraeth: Welsh longing for a home you cannot return to, or never had. It folds grief, nostalgia, and belonging into a single breath that English needs an entire paragraph to approximate."
+          "text": "**Hiraeth** (Welsh, n.) — a longing for a home you cannot return to, or one that never existed. Untranslatable in one English word, it folds grief, nostalgia, and yearning into a single breath."
         },
         {
-          "text": "On this date in 1648, the Peace of Westphalia was signed — and the word 'sovereignty' entered the political lexicon as a practical reality, not just a philosophical one."
+          "text": "On this day in 1881, Picasso was born in Málaga — and the word **prodigy** itself descends from Latin *prodigium*, meaning omen or monster. Giftedness once carried a tinge of the unnatural."
         },
         {
-          "text": "Sonder: coined in 2012 by John Koenig, the realization that every passerby has a life as vivid and complex as your own. Its youth does not make it less necessary."
+          "text": "On this day in 1415, English forces won Agincourt, cementing **chevron** in military vocabulary. The word comes from Old French for *rafter*, because the V-shape resembled a roof's peak — rank and architecture sharing a geometry."
         },
         {
-          "text": "Vellichor: also Koenig's invention, the strange wistfulness of used bookshops — places haunted by the lives of readers who never finished what they started."
+          "text": "**Mamihlapinatapai** (Yaghan, n.) — a look shared between two people who both want something but neither will initiate. From one of the world's most endangered languages, it describes something almost everyone has felt and no one has named."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2021, Bitcoin hit an all-time high above $66,000 — then lost half its value within weeks. The rally was partly driven by the ProShares futures ETF launch, not spot demand."
+          "text": "On this date in 2021, Bitcoin hit $60,000 for the first time after the ProShares Bfutures ETF launched — the first US Bitcoin ETF, which tracked futures contracts, not spot BTC."
         },
         {
-          "text": "On Oct 24, 2008, Satoshi Nakamoto sent the Bitcoin whitepaper to a cryptography mailing list. Nine people replied. None thought it would work."
+          "text": "On this date in 2016, Zcash launched its genesis block. The first 20,000 blocks were a 'slow-start' phase where block rewards were fractional, preventing a mining rush from capturing nearly all early supply."
         },
         {
-          "text": "The Ethereum 'Merge' in Sept 2022 cut the network's energy use by ~99.95%. It also made every pre-merge ETH miner's hardware instantly worthless overnight."
+          "text": "Ethereum's gas limit is not hardcoded — it's a rolling miner/validator vote. Each block can nudge it up or down by 1/1024th, making it a slow-motion consensus negotiation happening every 12 seconds."
         },
         {
-          "text": "Bitcoin's smallest unit, the satoshi, is 0.00000001 BTC. At peak 2021 prices, one sat was worth roughly $0.00066 — yet Lightning Network routes payments at this precision in milliseconds."
+          "text": "The Bitcoin whitepaper never uses the word 'blockchain.' Satoshi wrote 'chain of blocks' — the compound noun entered the lexicon through later developer shorthand, not the founding document."
         },
         {
-          "text": "The DAO hack in 2016 drained 3.6M ETH through a reentrancy bug. The attacker moved slowly enough that the community hard-forked Ethereum before the funds fully cleared — creating ETH and ETC in one exploit."
+          "text": "Solana's clock drifts from real time intentionally. Its proof-of-history timestamps are based on SHA-256 iteration counts, not wall clocks, so the chain's internal time and UTC diverge by design."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2015, Google open-sourced TensorFlow. Within two years it became the most-starred ML repo on GitHub, accelerating the shift from proprietary internal tools to shared infrastructure across the entire field."
+          "text": "On this date in 2015, Microsoft's ResNet-152 surpassed human-level performance on ImageNet, hitting 3.57% top-5 error vs. humans at 5.1%. The benchmark that defined a decade of vision research was effectively retired within five years of being set."
         },
         {
-          "text": "On this date in 2022, a preprint revealed that GPT-3's training data contained benchmark test sets verbatim, meaning years of reported SOTA scores were partly measuring memorization, not generalization."
+          "text": "On this date in 2022, Galactica — Meta's 120B-parameter scientific language model — was pulled from public demo after 72 hours due to confident fabrication of citations and chemistry. It remains one of the fastest public AI withdrawals on record."
         },
         {
-          "text": "AlphaFold 2 predicted structures for over 200 million proteins — essentially the entire known proteome — in roughly 18 months. The same task would have taken classical crystallography longer than the age of the universe."
+          "text": "GPT-4's training run is estimated to have consumed roughly 50 gigawatt-hours of electricity — comparable to the annual consumption of 4,600 average US homes, expended in a matter of months for a single model."
         },
         {
-          "text": "The transformer architecture, now the backbone of nearly every frontier model, was proposed in a 2017 paper whose working title was 'Attention Is All You Need' — a phrase its authors considered too glib to keep, then kept anyway."
+          "text": "AlphaFold 2 predicted structures for over 200 million proteins before most structural biology labs had a chance to validate even a handful. It compressed an estimated century of crystallography work into roughly two years of compute."
         },
         {
-          "text": "Training GPT-4 is estimated to have consumed more compute than the combined total of all ML experiments published in every academic venue from 1950 to 2010. The scaling cliff hasn't appeared yet."
+          "text": "The first neural network to beat a human champion at Go, AlphaGo, used 1,202 CPUs and 176 GPUs during match play against Lee Sedol in 2016. Its successor AlphaZero trained entirely through self-play in 8 hours to surpass it."
         }
       ]
     }
