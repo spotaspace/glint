@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-26T11:20:18.777Z",
+  "generatedAt": "2026-10-27T10:44:53.199Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1881, the Gunfight at the O.K. Corral lasted roughly 30 seconds — yet it defined the mythology of the American West for the next century and a half."
+          "text": "On this date in 1904, the New York City subway opened — the first line ran from City Hall to 145th Street and carried 150,000 riders in a single day, more than any city planner had dared predict."
         },
         {
-          "text": "On this date in 1994, Jordan and Israel signed a formal peace treaty, making Jordan only the second Arab country ever to normalize relations with Israel."
+          "text": "On this date in 1962, the Cuban Missile Crisis reached its peak: a Soviet submarine nearly launched a nuclear torpedo after losing contact with Moscow, stopped only because one officer, Vasili Arkhipov, refused to authorize it."
         },
         {
-          "text": "More people live inside a circle drawn around Dhaka, Bangladesh than inside one of the same size drawn around Tokyo — Dhaka's density is simply without modern parallel."
+          "text": "More people live inside a circle drawn 4,000 km around Chengdu, China than live outside it — roughly half of all humanity fits within that single radius."
         },
         {
-          "text": "Canada has more lakes than every other country on Earth combined, holding roughly 60% of the world's fresh surface lake water within its borders."
+          "text": "Manila is the most densely populated city on Earth, with over 71,000 people per square kilometer — nearly twice the density of Dhaka, its closest rival."
         },
         {
-          "text": "The city of Istanbul sits on two continents simultaneously — roughly 97% of Turkey's land is in Asia, yet its largest city and cultural capital straddles Europe and Asia across the Bosphorus."
+          "text": "Indonesia spans more time zones than the continental United States and contains over 17,000 islands, yet more than half its 280 million people live on a single one: Java."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this day in 1929, the week after Black Thursday, the Dow posted its largest single-day gain to that point — markets often surge hardest in the middle of crashes."
+          "text": "On this day in 1929, the Dow fell 13% — Black Tuesday. The crash wiped out $14 billion in a single session, equal to roughly $250 billion today."
         },
         {
-          "text": "On Oct 26, 1984, Eurotunnel was incorporated. It would become one of history's most catastrophic IPOs, losing investors roughly 94% of their money over a decade."
+          "text": "On Oct 27, 1997, the NYSE invoked circuit breakers for the first time ever, halting trading after the Dow dropped 554 points during the Asian financial crisis."
         },
         {
-          "text": "The S&P 500 has historically risen more in the final two months of the year than in the other ten combined — a pattern consistent enough to have its own name: the Santa Claus rally."
+          "text": "The Amsterdam Stock Exchange, founded in 1602, didn't just invent the stock market — it invented short selling, options, and margin trading simultaneously."
         },
         {
-          "text": "Saudi Aramco briefly surpassed $2 trillion in market cap in 2019, making it worth more than Google, Amazon, and Facebook combined at the time."
+          "text": "Saudi Aramco briefly hit a $2.4 trillion valuation in 2022, making it worth more than the entire GDP of France."
         },
         {
-          "text": "The Dutch East India Company paid an uninterrupted dividend for nearly 200 years — a streak no modern corporation has come close to matching."
+          "text": "The S&P 500 has historically risen in the six months following a U.S. midterm election every single time since 1950 — a streak across 19 consecutive cycles."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1958, the first commercial jet service across the Atlantic launched. The aircraft flew at 35,000 feet where the outside air is -60°C — colder than anywhere on Earth's surface."
+          "text": "On this date in 1905, Einstein submitted his paper on special relativity. Time dilation it describes isn't theoretical — GPS satellites must correct for it daily or navigation errors would compound by 11 km per day."
         },
         {
-          "text": "Your bones are not inert scaffolding. They secrete a hormone called osteocalcin that regulates memory, fertility, and stress response, making the skeleton an active endocrine organ."
+          "text": "On this date in 1961, NASA launched the Saturn SA-1. Its first stage burned 15 tons of fuel per second — enough to drain an Olympic pool in under 3 minutes."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its material would weigh about a billion tons on Earth."
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh roughly a billion tons on Earth."
         },
         {
-          "text": "On October 26, 1977, the last naturally occurring smallpox case was recorded in Somalia. The virus had killed an estimated 300 million people in the 20th century alone."
+          "text": "Your body replaces the lining of your small intestine every 2 to 4 days. The cells doing the most digestive work are among the shortest-lived in the human body."
         },
         {
-          "text": "The human eye can detect a single photon of light in total darkness. Your visual system is not limited by biology — it is limited only by the quantum nature of light itself."
+          "text": "Sound cannot travel through space, but pressure waves can move through stars. Astronomers detect these stellar oscillations to map what lies thousands of kilometers beneath a star's surface."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1825, the Erie Canal opened — making New York City the dominant American port. The canal is older than the photograph, the postage stamp, and the word 'scientist.'"
+          "text": "On this day in 1682, Philadelphia was founded — making the city older than the piano, the steam engine, and the United States itself."
         },
         {
-          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. Medieval Europe and pre-Columbian America existed in the same century."
+          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. Europe's oldest university predates the civilization Cortés destroyed."
         },
         {
-          "text": "On this day in 1881, the Gunfight at the O.K. Corral lasted roughly 30 seconds. It became the most mythologized 30 seconds in American history only after Hollywood needed a creation story."
+          "text": "On this day in 1904, the New York City subway opened. The entire system was built faster than a single modern subway station gets approved today."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She was an archaeologist's contemporary, not a pyramid builder's."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She was ancient history to ancient Egyptians."
         },
         {
-          "text": "The fax machine was invented before the American Civil War. Businesses were transmitting documents over wires in 1843 while Abraham Lincoln was still a country lawyer in Illinois."
+          "text": "The fax machine was patented in 1843 — 33 years before the telephone. Alexander Bain could send a document across a wire before anyone could make a call."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Vellichor (n.): the strange wistfulness of used bookshops. Coined by John Koenig in *The Dictionary of Obscure Sorrows* — proof that naming a feeling is halfway to owning it."
+          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in 2012, it spread so fast it now appears in several translation dictionaries."
         },
         {
-          "text": "Sonder (n.): the realization that every passerby has a life as vivid and complex as your own. Another Koenig coinage, now used seriously by people who've forgotten it was invented in 2012."
+          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed. The word fuses homesickness, grief, and nostalgia into a single ache that English has never managed to name."
         },
         {
-          "text": "On this day in 1825, the Erie Canal opened, and Americans suddenly needed a word for the fever it triggered: *canal mania*. English has always built compound nouns as fast as it builds infrastructure."
+          "text": "On this day in 1682, William Penn landed in Pennsylvania — a colony whose name he tried to refuse, finding it embarrassingly self-promotional. The king insisted."
         },
         {
-          "text": "Mamihlapinatapai: a Yaghan word for the look shared by two people who both want something but neither will initiate. The language has fewer than a handful of speakers left; the look is universal."
+          "text": "On this day in 1904, the New York City subway opened. The word 'subway' itself is a compression of 'subterranean way,' first used in print in 1825 for an underground aqueduct."
         },
         {
-          "text": "On this day in 1881, the Gunfight at the O.K. Corral lasted 30 seconds. The word *gunfight* itself didn't appear in print until years later — English named the myth long after the moment passed."
+          "text": "Mamihlapinatapai: a Yaghan word meaning a look shared by two people who both want something but neither will initiate. It holds a Guinness record as the most succinct word in any language."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2021, Bitcoin hit $60,000 for the first time after the ProShares BITO ETF launched — the fastest ETF to reach $1B AUM in history, doing so in two days."
+          "text": "On this date in 2008, Satoshi Nakamoto published the Bitcoin whitepaper to a cryptography mailing list. Nine people were on the thread. None of them believed it would work."
         },
         {
-          "text": "On this date in 2016, the Ethereum network processed block 2,463,000 during the height of the Shanghai DoS attacks, when an attacker exploited EXTCODESIZE for roughly $1 per 50,000 forced node operations."
+          "text": "On this date in 2021, Ethereum completed its transition to a proof-of-stake testnet merge on Goerli — the dry run before the real Merge that would cut ETH issuance by ~90%."
         },
         {
-          "text": "Bitcoin's UTXO model means your wallet balance doesn't exist — only discrete unspent outputs do. Your \"balance\" is software fiction layered over a ledger of discrete coins."
+          "text": "Bitcoin's genesis block contains the text 'Chancellor on brink of second bailout for banks' — not as poetry, but as a timestamp. It proves no bitcoin was pre-mined before Jan 3, 2009."
         },
         {
-          "text": "Satoshi's genesis block coinbase contains the text 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks' — both a timestamp and an editorial, embedded permanently in the chain."
+          "text": "The largest single Bitcoin transaction ever recorded moved 500,000 BTC in November 2011. It was a wallet consolidation by Mt. Gox. The coins were never fully accounted for after the exchange collapsed."
         },
         {
-          "text": "The DAO hack in 2016 drained 3.6M ETH through a reentrancy bug — the attacker couldn't immediately spend it due to a 28-day withdrawal lock, giving Ethereum time to execute the hard fork."
+          "text": "Ethereum smart contracts have no native way to trigger themselves. Every on-chain action requires an external account to pay gas and send a transaction — there is no autonomous execution."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2015, Microsoft's ResNet-152 surpassed human-level accuracy on ImageNet for the first time — a benchmark researchers had assumed would take another decade to fall."
+          "text": "Today in 1955, Bobby Fischer was born — the same year John McCarthy coined the term 'artificial intelligence' at Dartmouth. Both were prodigies; only one was eventually beaten by a machine."
         },
         {
-          "text": "On this date in 2017, Google Brain published the Transformer paper. Every major language model running today is a direct architectural descendant of those eight pages."
+          "text": "Today in 2016, Google announced it had deployed WaveNet in production — a neural text-to-speech system that cut the gap between machine and human speech quality in half, overnight."
         },
         {
-          "text": "GPT-4's training run is estimated to have consumed roughly 50 GWh of electricity — comparable to the annual consumption of 4,500 average U.S. households."
+          "text": "GPT-4 was trained on roughly 25,000 NVIDIA A100s running for months. The electricity cost alone exceeded what most countries spend annually on their entire national research budgets."
         },
         {
-          "text": "AlphaFold 2 predicted structures for over 200 million proteins in 2022, more than all experimental structures accumulated by humanity in the prior 70 years of structural biology."
+          "text": "AlphaFold2 predicted the 3D structure of virtually every known protein — around 200 million — in under a year. Structural biologists had spent 50 years solving roughly 170,000 by hand."
         },
         {
-          "text": "The first neural network to beat a professional Go player, AlphaGo, defeated Fan Hui in October 2015 — a milestone the field had projected was at least a decade away."
+          "text": "The first neural network to beat humans at Go, AlphaGo, was itself beaten 100–0 by its successor AlphaGo Zero, which learned the game from scratch with no human game data in three days."
         }
       ]
     }
