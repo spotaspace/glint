@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-28T11:28:06.725Z",
+  "generatedAt": "2026-10-29T11:38:40.435Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1886, the Statue of Liberty was dedicated — but France gave only the statue itself. The pedestal was America's responsibility, funded largely through 120,000 small donations after wealthy patrons refused to pay."
+          "text": "On this date in 1929, the U.S. stock market crashed — but the country that suffered the most unemployment wasn't America. Germany hit 30% joblessness by 1932, helping deliver Hitler his electoral opening."
         },
         {
-          "text": "On this date in 1962, Khrushchev announced Soviet missiles would leave Cuba, ending the closest the Cold War came to nuclear exchange. The US secretly agreed to remove its own missiles from Turkey — a concession kept hidden from the public for decades."
+          "text": "On this date in 1969, the first message sent over ARPANET crashed after two letters. The intended word was 'LOGIN.' What arrived at Stanford: 'LO.'"
         },
         {
-          "text": "Mongolia has more horses than people. With roughly 4.3 million residents and over 5 million horses, it is the only country on Earth where the livestock-to-human ratio tips so decisively in the animals' favor."
+          "text": "Manila is the most densely populated city on Earth — not Tokyo, not Dhaka. Its core district packs over 111,000 people per square kilometer, roughly 70 times denser than Los Angeles."
         },
         {
-          "text": "Tokyo is not Japan's capital by law. No Japanese legislation formally designates any city as the capital — Tokyo assumed the role by convention when the Emperor moved there in 1869, and the legal ambiguity has never been resolved."
+          "text": "More people live inside a circle drawn around Dhaka, Bangladesh than inside one drawn around the entire continent of Australia."
         },
         {
-          "text": "More people live inside a circle drawn around Dhaka, Bangladesh than inside a circle of the same size drawn around any other point on Earth. The density of South Asia's river delta cities makes the math almost unbelievable."
+          "text": "Canada is the second-largest country by area yet has a smaller population than the state of California — 40 million people spread across nearly 10 million square kilometers."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this day in 1929, the Dow fell 13% — Black Tuesday. The crash wiped out $14 billion in a single session, the equivalent of roughly $260 billion today."
+          "text": "On this date in 1929, the Dow fell 11.7% in a single session — Black Tuesday. It would take 25 years for the index to fully recover its losses."
         },
         {
-          "text": "On October 28, 2008, the Dow surged 889 points, its biggest single-day point gain at the time. It came in the middle of the worst financial crisis since the Depression."
+          "text": "On Oct 29, 1987, just two weeks after Black Monday, the Dow rebounded 10.1% in one day. Markets have a habit of their most violent swings clustering together."
         },
         {
-          "text": "The NYSE's famously chaotic trading floor employs fewer than 500 people today. In its 1980s peak, over 5,000 worked there daily."
+          "text": "The Dutch East India Company peaked at a valuation equivalent to roughly $8 trillion in today's dollars — larger than the entire current US stock market."
         },
         {
-          "text": "Saudi Aramco briefly hit a $2.4 trillion valuation in 2022 — larger than the entire GDP of Italy, which has 60 million people and centuries of industrial history."
+          "text": "Saudi Aramco paid out more in dividends in 2023 than Apple, Microsoft, and Google combined earned in net profit."
         },
         {
-          "text": "The U.S. penny costs 3.7 cents to produce. The government has lost money minting its cheapest coin every year since 2006."
+          "text": "The bond market is nearly three times the size of the global stock market, yet it gets a fraction of the coverage. The smarter money has always known where the real action is."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1962, Khrushchev announced Soviet missiles would leave Cuba — a decision made while Earth was roughly 8 light-minutes from the Sun, a distance light crosses in the time it took to read this."
+          "text": "On this date in 1998, John Glenn returned to orbit at 77, and his body re-experienced the same bone density loss and fluid shifts as any 25-year-old astronaut. Aging does not buy immunity from spaceflight."
         },
         {
-          "text": "On October 28, 1965, the Gateway Arch was completed. Its height and base width are identical at 630 feet — a catenary curve so precise it was calculated before reliable computers existed."
+          "text": "On this date in 1969, the first message sent over ARPANET crashed after two letters. The intended word was 'login.' The internet's first word was, technically, 'lo.'"
         },
         {
-          "text": "Your bones are not static scaffolding. The entire human skeleton replaces itself every decade, with osteoclasts dissolving old bone while osteoblasts rebuild it, continuously and silently."
+          "text": "Your femur withstands forces up to five times your body weight during a casual jog — making it, pound for pound, stronger than reinforced concrete."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh roughly a billion tons on Earth."
+          "text": "A neutron star packs more mass than the Sun into a sphere roughly the size of a city. A single teaspoon of its matter would weigh around a billion tons on Earth."
         },
         {
-          "text": "Quantum entanglement allows two particles to share a state across any distance, but the correlation appears instantaneously — faster than light, yet useless for sending information."
+          "text": "Mantis shrimp see 16 types of color receptors compared to the human three, yet research shows they are worse at distinguishing similar hues — their brains classify color rather than compare it."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1886, the Statue of Liberty was dedicated — making her older than the Eiffel Tower, the zipper, and the diesel engine."
+          "text": "On this day in 1929, the stock market collapsed in what we call Black Tuesday — an event closer in time to the American Civil War than it is to today."
         },
         {
-          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. Harvard still hadn't been imagined."
+          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. We tend to imagine the medieval and the pre-Columbian as contemporaries. They weren't."
         },
         {
-          "text": "On this day in 1962, Khrushchev announced Soviet missiles would leave Cuba — the closest humanity has come to nuclear war ended with a letter and a phone call."
+          "text": "On this day in 1969, the first message ever sent over ARPANET — the internet's ancestor — crashed after two letters. The intended word was 'login.' History's first text was 'lo.'"
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. Egypt's own history dwarfed her."
+          "text": "The fax machine was invented in 1843, before the American Civil War, before the telephone, and 15 years before the first transatlantic cable. It arrived absurdly early and somehow outlasted almost everything born after it."
         },
         {
-          "text": "The fax machine was patented in 1843 — before the American Civil War, before the telephone, and 137 years before the Post-it note."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. Egypt's own ancient history was ancient to the Egyptians."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Sonder (n.): the sudden awareness that every stranger has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012 — now widely adopted as if ancient."
+          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012. Too precise to stay invented."
         },
         {
-          "text": "Mamihlapinatapai: a Yaghan word for the shared, wordless look between two people who both want something but won't initiate. Once called the world's most succinct word by Guinness."
+          "text": "Vellichor (n.): the strange wistfulness of used bookshops. Also Koenig's. Some gaps in language wait centuries to be named; others wait for one careful person with a blog."
         },
         {
-          "text": "On this date in 1886, the Statue of Liberty was dedicated — its torch embodying the French word 'lumière,' light, echoing the Enlightenment ideal that liberty itself illuminates."
+          "text": "On this day in 1929, the New York Stock Exchange collapsed in what became Black Tuesday. The Yiddish word for it came later — fardreyt, meaning dizzied, twisted, spun hopelessly out of true."
         },
         {
-          "text": "Saudade (n.): a Portuguese ache for something loved and lost, or never had. Untranslatable by design — the Portuguese argue no other language has felt loss the same way."
+          "text": "On this day in 1969, the first message sent over ARPANET crashed after two letters. The intended word was 'login.' What arrived was 'lo' — accidental, and somehow perfect."
         },
         {
-          "text": "On Oct 28, 1955, Bill Gates was born. His surname descends from the Old Norse 'gat,' meaning a gap or opening in a fence — an entrance, aptly enough, to everything that followed."
+          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed. Untranslatable not because English lacks words, but because English lacks the specific grief of homesickness for the imaginary."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2008, Satoshi Nakamoto published the Bitcoin whitepaper to a cryptography mailing list. Nine people replied. None realized they were reading the founding document of a $1 trillion asset class."
+          "text": "On Oct 29, 2013, the world's first Bitcoin ATM opened in a Vancouver coffee shop. It processed $10,000 in transactions on day one, charging a 3% fee — steep then, quaint now."
         },
         {
-          "text": "On Oct 28, 2021, Facebook rebranded to Meta — triggering a 900% spike in transactions for unrelated token $META within 48 hours, a textbook case of ticker confusion arbitrage."
+          "text": "On Oct 29, 2021, the Bored Ape Yacht Club floor crossed 40 ETH for the first time. The collection had minted at 0.08 ETH just six months earlier."
         },
         {
-          "text": "Bitcoin's 21 million supply cap is never explicitly stated in the whitepaper. It emerges implicitly from the halving schedule coded into the protocol — a design choice Satoshi never publicly explained."
+          "text": "Bitcoin's UTXO model means your wallet holds no coins — only unspent transaction outputs. When you 'send' bitcoin, you destroy old outputs and mint new ones, keeping change."
         },
         {
-          "text": "The Ethereum genesis block, mined July 30, 2015, contained a hidden message in its extra data field: 'dao-hard-fork'. That field was actually empty — the message people cite is from a later block, a persistent myth."
+          "text": "Ethereum's EIP-1559, live since Aug 2021, burns base fees rather than paying them to miners. Over 4 million ETH had been destroyed by the protocol within its first two years."
         },
         {
-          "text": "CryptoKitties didn't just clog Ethereum in 2017 — it exposed that the network had no congestion pricing. Every subsequent EIP addressing fee markets, including EIP-1559, traces its urgency to those cartoon cats."
+          "text": "The 2016 DAO hack didn't break Ethereum's code — it exploited a reentrancy bug in a third-party contract. The controversial hard fork that reversed it split the chain, creating Ethereum Classic."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2003, Geoffrey Hinton published the paper introducing Contrastive Divergence, the training trick that quietly made deep Boltzmann machines viable and set the stage for the 2006 deep learning revival."
+          "text": "Today in history: On October 29, 1969, the first message sent over ARPANET crashed after two letters. The internet's ancestor failed at 'LOGIN.' Neural networks now process more data in a second than that entire network handled in its first year."
         },
         {
-          "text": "On this date in 2011, Apple shipped Siri in iOS 5 — the first mass-market neural-network voice assistant. It ran almost entirely on Apple's servers; the phone itself was just a microphone and a screen."
+          "text": "Today in history: In October 2015, Google DeepMind's AlphaGo secretly defeated European champion Fan Hui 5-0 — months before any public announcement. The AI community didn't know the game had already changed."
         },
         {
-          "text": "AlphaFold 2 predicted structures for over 200 million proteins — essentially the entire known universe of protein sequences — in roughly a year. Experimental X-ray crystallography would have taken longer than the age of the Earth."
+          "text": "The GPT-4 training run consumed roughly 50 gigawatt-hours of electricity — comparable to the annual consumption of 4,500 average U.S. homes. That buys one model with no guaranteed understanding of anything."
         },
         {
-          "text": "The original GPT-3 training run consumed an estimated 3.14 × 10²³ FLOPs. At peak A100 throughput, a single GPU would need roughly 355 years to replicate it alone."
+          "text": "Transformers, now the dominant architecture in AI, were introduced in 2017 by eight Google researchers. The paper was titled 'Attention Is All You Need.' Six of the eight authors have since left Google."
         },
         {
-          "text": "RLHF — the technique that turned raw language models into instruction-following assistants — was first applied to summarization in a 2020 OpenAI paper. The core idea borrows directly from 1990s animal-training research on reward shaping."
+          "text": "RLHF — the technique that made ChatGPT usable — relies partly on human labelers in low-wage markets rating model outputs for harm. The alignment of frontier AI runs through a Kenyan data center."
         }
       ]
     }
