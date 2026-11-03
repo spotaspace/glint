@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-02T13:42:31.667Z",
+  "generatedAt": "2026-11-03T12:55:15.449Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1920, KDKA in Pittsburgh made the first licensed commercial radio broadcast — covering the Harding-Cox election results. Within three years, 500 stations existed across the US."
+          "text": "On this date in 1957, the Soviet Union launched Sputnik 2 — carrying Laika the dog into orbit with no plan to bring her back. She became the first living creature in space, and died within hours from overheating."
         },
         {
-          "text": "On this date in 1947, Howard Hughes flew the Spruce Goose exactly once — a single, mile-long hop over Long Beach Harbor. It never flew again."
+          "text": "On this date in 1903, Panama declared independence from Colombia — with the US Navy blocking Colombian ships from intervening. The canal treaty was signed just two weeks later."
         },
         {
-          "text": "Manila is the world's most densely populated city proper, packing over 70,000 people per square kilometer — denser than any borough of New York City by a factor of four."
+          "text": "Mongolia has more horses than people. With 3.5 million residents and roughly 4.3 million horses, it holds the world's highest horse-to-human ratio, and nearly a third of its population still lives nomadically."
         },
         {
-          "text": "Canada has more lakes than every other country on Earth combined, containing roughly 60% of the world's fresh surface water in lake form."
+          "text": "The city of Chongqing, China is home to over 32 million people — larger than Australia's entire population — yet most Westerners have never heard of it."
         },
         {
-          "text": "Indonesia spans a wider east-west distance than the continental United States, yet sits entirely within the tropics — its 17,000 islands stretch across three time zones."
+          "text": "More people live inside a 40-mile radius of Jakarta than in the entire country of Canada."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this day in 1936, John Maynard Keynes published 'The General Theory' — a book written partly to save capitalism from itself, which conservatives would spend the next 90 years trying to undo."
+          "text": "On Nov 3, 1979, the Dow closed at 800. It would take just 8 more years to hit 2,000 — then only 2 more years to hit 3,000. Markets compress time in ways humans never expect."
         },
         {
-          "text": "On November 2, 1988, the Morris Worm became the first malware to cripple the internet. The damages were estimated at $10M — roughly what a mid-tier trading desk spends on Bloomberg terminals today."
+          "text": "On Nov 3, 1992, while America voted for Clinton, the S&P 500 rose 0.4%. Markets had already priced in his win — election days rarely move stocks because traders vote early with money."
         },
         {
-          "text": "The NYSE's famously chaotic open-outcry trading floor was nearly empty by 2007. What looked like 200 years of tradition was, in practice, theater kept alive for TV cameras."
+          "text": "The New York Stock Exchange was founded in 1792 under a buttonwood tree by 24 brokers. The tree is gone. The commissions remain."
         },
         {
-          "text": "Saudi Aramco pays more in taxes and royalties to the Saudi government each year than Apple, Microsoft, and Google combined earn in net profit."
+          "text": "Saudi Aramco's 2019 IPO raised $25.6 billion — the largest in history. It valued the company at $1.7 trillion, briefly making it worth more than Apple, Google, and Amazon combined."
         },
         {
-          "text": "Warren Buffett held more U.S. Treasury bills in 2024 than the Federal Reserve. Berkshire's cash pile briefly exceeded $300B — a one-man sovereign wealth fund dressed in Omaha flannel."
+          "text": "The entire global bond market — roughly $130 trillion — is larger than world GDP. Most of it trades with no central exchange, no ticker, and no price that ordinary investors ever see."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this day in 1988, the Morris Worm became the first malware to spread across the internet, infecting ~6,000 machines. Its creator, Robert Morris, later became an MIT professor."
+          "text": "On this date in 1957, Sputnik 2 carried Laika into orbit — the first living creature to circle Earth. She proved spaceflight was survivable. Scientists knew she wouldn't return."
         },
         {
-          "text": "On this day in 2000, humans began an unbroken streak of living in space aboard the ISS — a streak that has not ended since."
+          "text": "Your skeleton is not static. Every bone in your body is fully replaced, cell by cell, approximately every decade."
         },
         {
-          "text": "A teaspoon of neutron star material weighs about a billion tons. Gravity there is so extreme that a marshmallow dropped from one meter would hit the surface with nuclear-bomb force."
+          "text": "On November 3, 1994, the first confirmed pulsar in a binary system earned its discoverers a Nobel Prize retroactively confirmed. Pulsars spin up to 716 times per second."
         },
         {
-          "text": "Your body contains roughly 37 trillion cells, but only about half of them are human. The rest are bacteria, fungi, and other microbes that outnumber your own DNA at every turn."
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh roughly a billion tons on Earth."
         },
         {
-          "text": "Light takes 8 minutes to travel from the Sun to Earth, but the photons themselves were generated in the Sun's core up to 100,000 years ago, crawling outward before their final sprint."
+          "text": "The human eye can detect a single photon in total darkness. Your brain suppresses this sensitivity during daylight so the world doesn't look like static."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1936, the BBC launched the world's first regular television service — broadcasting to an audience of roughly 400 TV sets in London."
+          "text": "On this day in 1957, the Soviet Union launched Laika into orbit — making a dog an astronaut before any human had left the atmosphere."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. The pyramid is that old."
+          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. Medieval Europe had tenure before Tenochtitlan had walls."
         },
         {
-          "text": "On this day in 1947, Howard Hughes flew the Spruce Goose exactly once — a single 26-second hop over Long Beach harbor that was also its last flight."
+          "text": "On this day in 1783, the Continental Army disbanded — soldiers walked home carrying muskets, with no pensions, no ceremony, no state to thank them."
         },
         {
-          "text": "The fax machine was invented in 1843, before the telephone. You could fax someone 33 years before you could call them."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She was ancient history to ancient Egyptians."
         },
         {
-          "text": "Oxford University began teaching students before the Aztec Empire existed. When Montezuma was born, Oxford had already been running for 300 years."
+          "text": "The fax machine was patented in 1843 — 33 years before the telephone. You could transmit a document before you could transmit a voice."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Saudade (Portuguese): a melancholic longing for something beloved and lost. Linguists consider it untranslatable — English requires an entire sentence to approximate what Portuguese captures in four syllables."
+          "text": "Mamihlapinatapai (Yaghan): the look shared between two people who both want something but neither will initiate. One of the world's most succinct words, from a language with only a handful of living speakers."
         },
         {
-          "text": "Apricity: the warmth of winter sun on your skin. The word existed in English by 1623, then quietly vanished from dictionaries, leaving us with no single word for one of winter's finest pleasures."
+          "text": "Sonder (English, coined 2012): the realization that every passerby has a life as vivid and complex as your own. John Koenig invented it for his Dictionary of Obscure Sorrows, and it spread as if it had always existed."
         },
         {
-          "text": "On this day in 1755, the Lisbon earthquake killed up to 60,000 people — and gave philosophy the word 'optimism' as a pejorative, after Voltaire wrote Candide to mock Leibniz's claim that this is the best of all possible worlds."
+          "text": "On this date in 1957, Sputnik 2 launched, carrying Laika into orbit. The Russian word sputnik simply means 'fellow traveler' — a satellite, literally, is just something that travels alongside."
         },
         {
-          "text": "On November 2, 1920, KDKA Pittsburgh made the first licensed commercial radio broadcast. The word 'broadcast' was stolen directly from agriculture, where it meant scattering seeds widely across a field."
+          "text": "Forelsket (Norwegian): the euphoric, almost painful feeling of falling in love. English has no single word for it, which says something about what English chose to name and what it let slip past."
         },
         {
-          "text": "Hiraeth (Welsh): a homesickness for a home you cannot return to — or that never existed. It folds grief, nostalgia, and longing into one word English has spent centuries failing to invent."
+          "text": "Acedia (Greek/Latin): spiritual torpor, a numb inability to care. Medieval monks considered it the deadliest of sins — not wickedness, but the slow failure to find anything worth feeling."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2008, Satoshi Nakamoto published the Bitcoin whitepaper to a cryptography mailing list. Nine people received it. None responded with enthusiasm."
+          "text": "On this date in 2008, Satoshi Nakamoto published the Bitcoin whitepaper to a cryptography mailing list. Nine people responded. None predicted it would anchor a $1T asset class."
         },
         {
-          "text": "On Nov 2, 2022, FTX's on-chain wallets began showing unusual outflows hours before Sam Bankman-Fried publicly denied insolvency. The blockchain logged what PR denied."
+          "text": "On Nov 3, 2021, Solana suffered its first major network outage — 17 hours offline after a bot flood during an IDO minted 400,000 transactions per second, overwhelming validators."
         },
         {
-          "text": "Bitcoin's timelock opcode, OP_CHECKLOCKTIMEVERIFY, sat disabled in the codebase for years before activation in 2015. Satoshi wrote it in but never turned it on."
+          "text": "Bitcoin's genesis block contains the headline 'Chancellor on brink of second bailout for banks.' Satoshi embedded it permanently — part timestamp proof, part indictment."
         },
         {
-          "text": "Ethereum's genesis block contains a hidden message: the hash of a Times headline about bank bailouts — a direct mirror of Bitcoin's own genesis block editorial."
+          "text": "Ethereum's EIP-1559 destroyed over 4.7 million ETH since August 2021. The burn mechanism turned transaction fees from miner revenue into a deflationary force built into base protocol."
         },
         {
-          "text": "The DAO hack of 2016 didn't steal funds — it legally exploited a recursive call vulnerability. Ethereum's hard fork was the irregular act; the attacker followed the code exactly."
+          "text": "The most expensive NFT ever settled on-chain was Beeple's 'Everydays' at $69M — but the buyer, Metakovan, paid in WETH wrapped inside a smart contract, never touching fiat."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2014, Demis Hassabis presented the first DQN paper at a Montreal workshop — a neural net learning Atari from raw pixels. Most attendees didn't realize they were watching the opening move of the modern RL era."
+          "text": "On this date in 2017, Google Brain published 'Attention Is All You Need,' introducing the Transformer architecture that now underlies virtually every large language model in production."
         },
         {
-          "text": "On this date in 1988, the Morris Worm infected roughly 6,000 machines — about 10% of the internet. Its self-replicating logic foreshadowed the adversarial optimization problems that now consume entire AI safety research programs."
+          "text": "On November 3, 2022, Meta released OPT-IML, one of the first large instruction-tuned models released with full weights — a quiet opening move in the open-weights era."
         },
         {
-          "text": "GPT-4's training run is estimated to have consumed around 50 gigawatt-hours of electricity — comparable to the annual consumption of 4,500 average US homes, for a single model trained once."
+          "text": "AlphaFold 2 predicted structures for over 200 million proteins before most structural biology labs had processed a dozen — compressing decades of potential work into roughly 18 months of inference."
         },
         {
-          "text": "The transformer architecture, now running inside almost every major AI product on earth, was published by eight Google researchers in 2017. Three of the eight authors have since left Google."
+          "text": "GPT-4's training run is estimated to have consumed around 50 gigawatt-hours of electricity — comparable to the annual consumption of about 4,500 average US households."
         },
         {
-          "text": "Chinchilla scaling laws, derived from a 2022 DeepMind paper, showed the entire field had been systematically under-training models relative to dataset size — meaning years of prior compute had been spent in the wrong direction."
+          "text": "The first neural network to defeat a professional Go player, AlphaGo, used a policy network trained on 30 million moves from human games before it learned to surpass those humans entirely."
         }
       ]
     }
