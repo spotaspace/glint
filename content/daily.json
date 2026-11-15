@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-14T12:22:01.334Z",
+  "generatedAt": "2026-11-15T12:52:27.957Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1889, Nellie Bly left New York to circle the globe in under 80 days — she did it in 72, beating Phileas Fogg's fictional record and filing dispatches the whole way."
+          "text": "On this date in 1889, Brazil abolished its monarchy overnight — Emperor Pedro II was asleep when generals staged the coup, and he learned he'd been deposed only at breakfast."
         },
         {
-          "text": "On this date in 1969, Apollo 12 launched — the second Moon landing is so overshadowed by Apollo 11 that most people cannot name a single astronaut from it. It was Pete Conrad, Alan Bean, and Richard Gordon."
+          "text": "On this date in 1920, the League of Nations held its first assembly in Geneva, representing 41 nations — yet the country that proposed it, the United States, never joined."
         },
         {
-          "text": "Manila is the world's most densely populated city proper, packing over 70,000 people per square kilometer — denser than any place on Earth, including Hong Kong or Dhaka."
+          "text": "More people live inside a 40-mile radius of Jakarta than in the entire country of Australia."
         },
         {
-          "text": "More people live inside a circle drawn around Dhaka with a 4,000 km radius than live outside it — roughly half of all humanity fits within that one boundary."
+          "text": "The city of Chongqing, China, has more people than Canada. It is a single municipality — not a province — covering an area roughly the size of Austria."
         },
         {
-          "text": "Canada has more lakes than every other country on Earth combined, holding about 60% of the world's fresh surface lake water within its borders."
+          "text": "Mongolia is the world's least densely populated sovereign nation, with about 2 people per square kilometer, yet its capital Ulaanbaatar holds nearly half the entire national population."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this day in 1972, the Dow Jones closed above 1,000 for the first time. It had taken the index 76 years to reach that milestone. It would cross 2,000 just 15 years later."
+          "text": "On this day in 1867, the Chicago Produce Exchange opened — the ancestor of today's CME Group, which now clears over $1 quadrillion in contracts annually."
         },
         {
-          "text": "On this day in 1910, the first aircraft landing on a US Navy ship was tested — triggering a century of defense contracts that now make Lockheed Martin's annual revenue larger than the GDP of 130 countries."
+          "text": "On November 15, 1999, the Gramm-Leach-Bliley Act repealed Glass-Steagall, letting commercial and investment banks merge again after 66 years apart. Nine years later, the financial system collapsed."
         },
         {
-          "text": "The NYSE's smallest ever recorded trade: one share of Berkshire Hathaway Class A, which as of 2024 costs more than a median American home. The stock has never split."
+          "text": "The entire market cap of the New York Stock Exchange in 1900 was roughly $4 billion — less than a single hour of Apple's current revenue run rate."
         },
         {
-          "text": "When the Weimar Republic's hyperinflation peaked in 1923, a wheelbarrow full of banknotes couldn't buy a newspaper. The currency lost so much value that some factories paid workers twice a day so they could shop at lunch before prices rose."
+          "text": "Saudi Aramco briefly hit a $2 trillion valuation in 2019, making it worth more than the GDP of Italy. It got there after one day of public trading."
         },
         {
-          "text": "Saudi Aramco briefly held a $2 trillion market cap in 2019 — making it worth more than Apple, Google, and Microsoft combined at that moment. It got there after the world's largest IPO raised $25.6 billion."
+          "text": "The Dutch tulip mania of 1637 is remembered as irrational hysteria, but the crash was partly triggered by a legal change that let buyers cancel futures contracts for a small fee — a rational exit, badly timed."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1969, Apollo 12 launched — and was struck by lightning twice within 36 seconds of liftoff. The crew kept flying."
+          "text": "On this date in 1930, humans first confirmed the stratosphere contains ozone. That thin molecular layer, just 3mm thick if compressed to sea level pressure, is the only reason complex life exists on land."
         },
         {
-          "text": "Your bones are constantly dissolving and rebuilding. Every decade, you have an almost entirely new skeleton."
+          "text": "Your bones are not static scaffolding. The entire human skeleton replaces itself roughly every 10 years through a continuous process of osteoclasts dissolving old bone while osteoblasts rebuild it."
         },
         {
-          "text": "On this date in 1971, Mariner 9 became the first spacecraft to orbit another planet. It arrived at Mars to find a global dust storm — and simply waited."
+          "text": "On this date in 1738, Daniel Bernoulli published Hydrodynamica, establishing that faster-moving fluids exert less pressure — the principle that lets 500-ton aircraft leave the ground."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh about a billion tons on Earth."
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its matter would weigh roughly 10 million tons on Earth."
         },
         {
-          "text": "The mantis shrimp sees 16 types of color receptors to your three — yet processes color worse than you do. Evolution built the hardware, then skipped the software."
+          "text": "Trees in a forest actively share sugar through fungal networks connecting their roots. A dying tree will receive carbon from neighbors, suggesting the network redistributes resources rather than simply leaking them."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1889, Nellie Bly left New York to circle the globe in 72 days — beating Phileas Fogg's fictional record from a novel published just 16 years earlier."
+          "text": "On this day in 1777, the Continental Congress adopted the Articles of Confederation — America's first constitution, which lasted just 8 years before being quietly abandoned as unworkable."
         },
         {
-          "text": "Oxford University was already 300 years old when the Aztec Empire was founded."
+          "text": "Oxford University was teaching students before the Aztec Empire existed. Oxford dates to 1096; Tenochtitlan wasn't founded until 1325."
         },
         {
-          "text": "On this day in 1969, Apollo 12 launched — the second Moon landing, now closer in time to the Wright Brothers' first flight than to today."
+          "text": "On this day in 1864, Sherman began his March to the Sea — 60,000 troops cutting a 300-mile swath through Georgia in a deliberate experiment in breaking civilian morale, the template for modern total war."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landings than to the construction of the Great Pyramid."
+          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She died in 30 BC; the pyramid was finished around 2560 BC."
         },
         {
-          "text": "The fax machine was invented in 1843 — before the American Civil War, before the telephone, 140 years before most offices ever used one."
+          "text": "The fax machine was invented in 1843 — before the American Civil War, before the telephone, before Edison was born. Japan's attachment to fax technology isn't nostalgia; it's just very long loyalty."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Hiraeth (Welsh): a homesickness for a place you cannot return to — or that never existed. English has no equivalent, which is itself a kind of hiraeth."
+          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012. It spread until the feeling finally had a name."
         },
         {
-          "text": "Sonder (coined 2012): the realization that every passerby has a life as vivid and complex as your own. It spread so fast linguists debate whether it qualifies as a real word yet."
+          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed — nostalgia, grief, and belonging fused into one untranslatable ache. English requires a full sentence to say what Welsh says in three syllables."
         },
         {
-          "text": "On this day in 1851, Melville published Moby-Dick to indifferent reviews. The word 'ungodly' appears 11 times. 'Whiteness' appears more than any color in a novel obsessed with black and white."
+          "text": "On this day in 1532, Pizarro captured the Inca emperor Atahualpa at Cajamarca. The Quechua word 'llaqta,' meaning city or homeland, survives in place names across the Andes — a language outlasting the empire that spoke it."
         },
         {
-          "text": "Mamihlapinatapai (Yaghan): a look shared by two people who both want something but neither will initiate. The language has fewer than five fluent speakers left."
+          "text": "On this day in 1969, the Moratorium March drew 500,000 to Washington. The Latin root of 'moratorium' is 'morari' — to delay — making it literally a pause, not an end. The word has always been careful about what it promises."
         },
         {
-          "text": "On this day in 1940, Coventry was bombed so completely that Germans coined a verb: 'coventrisieren' — to raze a city by air. The word outlived the regime that made it."
+          "text": "Mamihlapinatapai (n.): a Yaghan word from Tierra del Fuego for a look shared between two people who both want something neither will initiate. The Yaghan language has fewer than ten remaining speakers. The feeling is universal."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2017, Bitcoin hit $7,000 for the first time — but more quietly, SegWit adoption crossed 10% of transactions that same week, a protocol shift that had taken years of civil war to force through."
+          "text": "On this date in 2021, Bitcoin reached $65,000 for the first time — then lost half its value within weeks. The peak lasted under 24 hours before selling pressure from newly listed Coinbase options overwhelmed spot demand."
         },
         {
-          "text": "On Nov 14, 2022, FTX's on-chain wallets drained $477M in suspicious outflows hours after bankruptcy filing. Blockchain's transparency exposed the theft in real time — something no traditional bank collapse ever offered."
+          "text": "On Nov 15, 2018, Bitcoin Cash split into two chains mid-block 556,766. The hash war between Craig Wright and Roger Ver burned an estimated $10M in miner revenue in a single week settling a whitepaper dispute."
         },
         {
-          "text": "Ethereum's gas limit is not a fixed protocol rule. Validators vote on it block-by-block, and they've raised it 9x since launch without a hard fork."
+          "text": "Ethereum's gas limit is set by miners, not the protocol. Blocks can hold more or fewer transactions based on miner votes — a design choice that has quietly tripled throughput without a single hard fork."
         },
         {
-          "text": "Bitcoin's timelock opcode, CHECKLOCKTIMEVERIFY, sat in the codebase as a disabled no-op for years before BIP 65 activated it in 2015 — meaning locked funds were always possible, just deliberately switched off."
+          "text": "Satoshi's known wallet addresses — roughly 1.1 million BTC mined in 2009 — have never moved a single satoshi. On-chain analysts can identify them by the Patoshi pattern in early nonce sequences."
         },
         {
-          "text": "The Ethereum genesis block contains a hidden message in its extra data field: a reference to a 2015 Guardian headline about bank bailouts, mirroring Satoshi's own embedded headline in Bitcoin's block zero."
+          "text": "The DAO hack in 2016 didn't steal ETH — it locked 3.6 million ETH in a recursive withdrawal loop the attacker couldn't fully exit. Ethereum's hard fork happened before they could drain it cleanly."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2016, DeepMind's AlphaGo defeated European champion Fan Hui 5-0 — the first time a computer beat a professional Go player without handicap, years ahead of expert predictions."
+          "text": "On this date in 2022, Meta released Galactica — a 120B-parameter model trained on scientific literature. It was pulled 72 hours later after researchers demonstrated it generated fluent, confident nonsense about bears and the history of time."
         },
         {
-          "text": "On this date in 1985, the first Neural Information Processing Systems (NeurIPS) conference was proposed; it now receives over 15,000 paper submissions annually."
+          "text": "On this date in 2017, Google Brain published 'Attention Is All You Need,' introducing the transformer. Every major language model in production today descends directly from that eight-author paper."
         },
         {
-          "text": "GPT-4 was trained on roughly 25,000 A100 GPUs for an estimated 90 days. The electricity alone cost more than most nations spend annually on scientific research."
+          "text": "AlphaFold 2 predicted structures for over 200 million proteins — essentially the entire UniProt database — using less compute time than a single experimental X-ray crystallography lab produces in a year."
         },
         {
-          "text": "RLHF — the technique that made ChatGPT feel coherent — was originally developed to align simulated robots in 2017. Its application to language models was considered a long shot by its own authors."
+          "text": "GPT-4's training run is estimated to have cost around $100 million. The original GPT, trained in 2018, cost roughly $43,000. That is a 2,000x cost increase in six years, tracking a capability jump that no other engineering field has matched at this pace."
         },
         {
-          "text": "The transformer architecture, now the backbone of nearly every frontier AI system, was introduced in a 2017 paper by eight authors. Six of them have since left Google."
+          "text": "RLHF — the technique that made ChatGPT feel coherent — was originally developed to teach robots to backflip. The 2017 OpenAI paper used human preference signals to train simulated locomotion, not language."
         }
       ]
     }
