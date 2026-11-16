@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-15T12:52:27.957Z",
+  "generatedAt": "2026-11-16T13:52:16.784Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this date in 1889, Brazil abolished its monarchy overnight — Emperor Pedro II was asleep when generals staged the coup, and he learned he'd been deposed only at breakfast."
+          "text": "On this date in 1532, Francisco Pizarro captured the Inca emperor Atahualpa at Cajamarca — with 168 men against an army of 80,000. It remains history's most lopsided military conquest."
         },
         {
-          "text": "On this date in 1920, the League of Nations held its first assembly in Geneva, representing 41 nations — yet the country that proposed it, the United States, never joined."
+          "text": "On this date in 1776, the Netherlands became the first foreign power to salute the American flag, when a Dutch fort in St. Eustatius fired a cannon response to the USS Andrew Doria."
         },
         {
-          "text": "More people live inside a 40-mile radius of Jakarta than in the entire country of Australia."
+          "text": "More people live inside a circle drawn around Dhaka, Bangladesh than in the entire United States. Within 1,000 km of that circle sits roughly half of humanity."
         },
         {
-          "text": "The city of Chongqing, China, has more people than Canada. It is a single municipality — not a province — covering an area roughly the size of Austria."
+          "text": "Tokyo's greater metro area has more people than all of Canada — yet its violent crime rate is lower than that of Zurich, one of the world's wealthiest and most policed cities."
         },
         {
-          "text": "Mongolia is the world's least densely populated sovereign nation, with about 2 people per square kilometer, yet its capital Ulaanbaatar holds nearly half the entire national population."
+          "text": "Lesotho, San Marino, and Uzbekistan are the only countries entirely surrounded by just one other country. Lesotho's host is South Africa; San Marino and Uzbekistan sit inside Italy and Central Asia respectively."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this day in 1867, the Chicago Produce Exchange opened — the ancestor of today's CME Group, which now clears over $1 quadrillion in contracts annually."
+          "text": "On this day in 1914, the Federal Reserve officially opened for business — created after the Panic of 1907 exposed the U.S. as the only major economy without a central bank."
         },
         {
-          "text": "On November 15, 1999, the Gramm-Leach-Bliley Act repealed Glass-Steagall, letting commercial and investment banks merge again after 66 years apart. Nine years later, the financial system collapsed."
+          "text": "On Nov 16, 1945, the Nuremberg trials began restructuring German war debt — IG Farben alone was split into BASF, Bayer, and Hoechst, three companies now worth over $100B combined."
         },
         {
-          "text": "The entire market cap of the New York Stock Exchange in 1900 was roughly $4 billion — less than a single hour of Apple's current revenue run rate."
+          "text": "The S&P 500 has historically risen in November more often than any other month, making it the single most reliably bullish calendar period in U.S. equity history."
         },
         {
-          "text": "Saudi Aramco briefly hit a $2 trillion valuation in 2019, making it worth more than the GDP of Italy. It got there after one day of public trading."
+          "text": "Berkshire Hathaway was originally a failing textile mill. Warren Buffett later called buying it the worst investment of his life — he estimates the mistake cost him $200 billion."
         },
         {
-          "text": "The Dutch tulip mania of 1637 is remembered as irrational hysteria, but the crash was partly triggered by a legal change that let buyers cancel futures contracts for a small fee — a rational exit, badly timed."
+          "text": "The Dutch East India Company paid uninterrupted dividends for nearly 200 years. At its peak, its inflation-adjusted valuation exceeded that of every company on Earth today combined."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1930, humans first confirmed the stratosphere contains ozone. That thin molecular layer, just 3mm thick if compressed to sea level pressure, is the only reason complex life exists on land."
+          "text": "On this date in 1974, humanity sent its first deliberate message to the stars. The Arecibo transmission would take 25,000 years to reach its target cluster — and assumes the recipients can read binary."
         },
         {
-          "text": "Your bones are not static scaffolding. The entire human skeleton replaces itself roughly every 10 years through a continuous process of osteoclasts dissolving old bone while osteoblasts rebuild it."
+          "text": "Your bones are not static scaffolding. The entire human skeleton replaces itself roughly every decade through a continuous process of cellular demolition and rebuilding."
         },
         {
-          "text": "On this date in 1738, Daniel Bernoulli published Hydrodynamica, establishing that faster-moving fluids exert less pressure — the principle that lets 500-ton aircraft leave the ground."
+          "text": "On this date in 1904, the first SOS-equivalent distress signal was proposed at the Berlin Radiotelegraphic Conference. CQD — not SOS — was the original code."
         },
         {
-          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A single teaspoon of its matter would weigh roughly 10 million tons on Earth."
+          "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh approximately one billion tons on Earth."
         },
         {
-          "text": "Trees in a forest actively share sugar through fungal networks connecting their roots. A dying tree will receive carbon from neighbors, suggesting the network redistributes resources rather than simply leaking them."
+          "text": "Trees in a forest share resources through fungal networks in their roots, with larger trees actively subsidizing smaller, shaded seedlings — sometimes of entirely different species."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1777, the Continental Congress adopted the Articles of Confederation — America's first constitution, which lasted just 8 years before being quietly abandoned as unworkable."
+          "text": "On this day in 1532, Francisco Pizarro captured the Inca emperor Atahualpa with 168 men against 80,000 — a ransom of a room filled with gold followed, yet Atahualpa was executed anyway."
         },
         {
-          "text": "Oxford University was teaching students before the Aztec Empire existed. Oxford dates to 1096; Tenochtitlan wasn't founded until 1325."
+          "text": "Oxford University was already 300 years old when the Aztec Empire was founded. Europe's oldest university predates the civilization Cortés destroyed by three centuries."
         },
         {
-          "text": "On this day in 1864, Sherman began his March to the Sea — 60,000 troops cutting a 300-mile swath through Georgia in a deliberate experiment in breaking civilian morale, the template for modern total war."
+          "text": "On this day in 1914, the Federal Reserve opened for business — America's central bank arrived 100 years after Napoleon's Banque de France and 220 years after the Bank of England."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. She died in 30 BC; the pyramid was finished around 2560 BC."
+          "text": "The fax machine was invented in 1843, before the American Civil War, before the telephone, and 140 years before most offices actually got one."
         },
         {
-          "text": "The fax machine was invented in 1843 — before the American Civil War, before the telephone, before Edison was born. Japan's attachment to fax technology isn't nostalgia; it's just very long loyalty."
+          "text": "On this day in 1849, Dostoevsky stood before a firing squad, was pardoned at the last second, and went on to write Crime and Punishment. He called the mock execution the most significant moment of his life."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Sonder (n.): the realization that each passerby has a life as vivid and complex as your own. Coined by John Koenig in The Dictionary of Obscure Sorrows, 2012. It spread until the feeling finally had a name."
+          "text": "Vellichor (n.): the strange wistfulness of used bookshops. Coined by John Koenig in 2012 for his Dictionary of Obscure Sorrows — a invented word so precise it feels ancient."
         },
         {
-          "text": "Hiraeth (n.): a Welsh longing for a home that may never have existed — nostalgia, grief, and belonging fused into one untranslatable ache. English requires a full sentence to say what Welsh says in three syllables."
+          "text": "Apricity (n.): the warmth of sun in wintertime. From Latin apricus, meaning sun-drenched. Recorded in English since 1623, then quietly lost — a word that deserved to survive."
         },
         {
-          "text": "On this day in 1532, Pizarro captured the Inca emperor Atahualpa at Cajamarca. The Quechua word 'llaqta,' meaning city or homeland, survives in place names across the Andes — a language outlasting the empire that spoke it."
+          "text": "On this day in 1849, Dostoevsky stood before a firing squad in St. Petersburg. The execution was a staged mock punishment. The word 'reprieve' never felt so physical to anyone as it did to him."
         },
         {
-          "text": "On this day in 1969, the Moratorium March drew 500,000 to Washington. The Latin root of 'moratorium' is 'morari' — to delay — making it literally a pause, not an end. The word has always been careful about what it promises."
+          "text": "Mamihlapinatapai: a Yaghan word meaning the shared glance between two people who both want something but neither will initiate. Linguists cite it as one of the most succinct expressions of human awkwardness ever recorded."
         },
         {
-          "text": "Mamihlapinatapai (n.): a Yaghan word from Tierra del Fuego for a look shared between two people who both want something neither will initiate. The Yaghan language has fewer than ten remaining speakers. The feeling is universal."
+          "text": "On this day in 1914, the U.S. Federal Reserve opened. The word 'bank' traces to Italian banca — the bench medieval moneylenders overturned when insolvent, giving English the word 'bankrupt.'"
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2021, Bitcoin reached $65,000 for the first time — then lost half its value within weeks. The peak lasted under 24 hours before selling pressure from newly listed Coinbase options overwhelmed spot demand."
+          "text": "On this date in 2021, Ethereum's EIP-1559 had already burned over 1 million ETH since its August launch — permanently removing it from supply. Fee burning as monetary policy had arrived faster than almost anyone predicted."
         },
         {
-          "text": "On Nov 15, 2018, Bitcoin Cash split into two chains mid-block 556,766. The hash war between Craig Wright and Roger Ver burned an estimated $10M in miner revenue in a single week settling a whitepaper dispute."
+          "text": "On Nov 16, 2018, Bitcoin's civil war peaked: a hash war between Bitcoin ABC and Bitcoin SV split BCH into two chains. Craig Wright publicly threatened to 'kill' the opposing chain by dumping BTC to fund mining attacks."
         },
         {
-          "text": "Ethereum's gas limit is set by miners, not the protocol. Blocks can hold more or fewer transactions based on miner votes — a design choice that has quietly tripled throughput without a single hard fork."
+          "text": "Bitcoin's genesis block contains the headline 'Chancellor on brink of second bailout for banks' — not as metadata, but as the coinbase transaction input. Satoshi timestamped the entire project as a rebuke to fractional reserve banking."
         },
         {
-          "text": "Satoshi's known wallet addresses — roughly 1.1 million BTC mined in 2009 — have never moved a single satoshi. On-chain analysts can identify them by the Patoshi pattern in early nonce sequences."
+          "text": "The Ethereum contract that held $150M in The DAO hack funds sat untouched for 27 days before the attacker moved anything. The delay gave the community time to organize the fork — the hacker's patience arguably cost them everything."
         },
         {
-          "text": "The DAO hack in 2016 didn't steal ETH — it locked 3.6 million ETH in a recursive withdrawal loop the attacker couldn't fully exit. Ethereum's hard fork happened before they could drain it cleanly."
+          "text": "Lightning Network payment channels are legally unbroadcast transactions held in mutual custody. At any moment, either party can close the channel by publishing the latest state — the network runs on cryptographic threat, not trust."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2022, Meta released Galactica — a 120B-parameter model trained on scientific literature. It was pulled 72 hours later after researchers demonstrated it generated fluent, confident nonsense about bears and the history of time."
+          "text": "On this date in 2022, Meta released Galactica — a 120B-parameter model trained on scientific literature. It was pulled 72 hours later after researchers demonstrated it confidently fabricated citations and physics."
         },
         {
-          "text": "On this date in 2017, Google Brain published 'Attention Is All You Need,' introducing the transformer. Every major language model in production today descends directly from that eight-author paper."
+          "text": "On this date in 2016, AlphaGo's paper appeared in Nature, revealing it had already defeated Fan Hui 5-0 in October — months before the world knew a machine had crossed that threshold."
         },
         {
-          "text": "AlphaFold 2 predicted structures for over 200 million proteins — essentially the entire UniProt database — using less compute time than a single experimental X-ray crystallography lab produces in a year."
+          "text": "GPT-4's training run is estimated to have consumed more electricity than 1,000 US households use in a year, yet the model weights compress to roughly 1TB — less than a modern video game install."
         },
         {
-          "text": "GPT-4's training run is estimated to have cost around $100 million. The original GPT, trained in 2018, cost roughly $43,000. That is a 2,000x cost increase in six years, tracking a capability jump that no other engineering field has matched at this pace."
+          "text": "The first neural network to beat humans at ImageNet, AlexNet in 2012, ran on two consumer GTX 580 GPUs with 3GB VRAM each. Today's frontier models require that much memory per attention head."
         },
         {
-          "text": "RLHF — the technique that made ChatGPT feel coherent — was originally developed to teach robots to backflip. The 2017 OpenAI paper used human preference signals to train simulated locomotion, not language."
+          "text": "Transformers were introduced in 2017 to solve machine translation. Within five years, the same architecture dominated image recognition, protein folding, code generation, and audio synthesis — an architectural monopoly with almost no precedent in CS history."
         }
       ]
     }
