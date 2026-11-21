@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-20T14:13:24.064Z",
+  "generatedAt": "2026-11-21T13:37:18.540Z",
   "channels": {
     "world": {
       "label": "World",
       "facts": [
         {
-          "text": "On this day in 1945, the Nuremberg trials opened — the first time in history that leaders of a defeated nation were held criminally accountable under international law, setting the precedent for every war crimes tribunal that followed."
+          "text": "On this date in 1783, the first untethered human balloon flight lifted off from Paris — making France the birthplace of aviation a full 120 years before the Wright Brothers."
         },
         {
-          "text": "On this day in 1917, British tanks massed at Cambrai for the first large-scale tank assault in history, advancing further in hours than months of Somme fighting had achieved."
+          "text": "On this date in 1877, Thomas Edison announced the phonograph in New York. The device was so unexpected, the French Academy of Sciences initially declared the demonstration a ventriloquist's trick."
         },
         {
-          "text": "Mongolia has more horses than people — roughly 4.3 million horses to 3.4 million humans — and a significant portion of the population still navigates the steppe on horseback rather than by road."
+          "text": "More people live inside a circle drawn around Dhaka, Bangladesh than in the entire continent of Australia — roughly 170 million within 200 kilometers."
         },
         {
-          "text": "The Philippines is the only country in the world where divorce remains entirely illegal for most of its citizens, with annulment the sole legal exit from marriage and cases routinely taking a decade to resolve."
+          "text": "Indonesia spans a wider longitude than the continental United States, yet it has compressed itself into just three time zones to simplify national coordination."
         },
         {
-          "text": "Jakarta is sinking so fast — up to 25 centimeters per year in some districts — that Indonesia has already begun relocating its capital to a new city, Nusantara, carved from Borneo jungle."
+          "text": "The city of Istanbul is simultaneously the largest city in Europe and in Asia — the Bosphorus strait runs directly through its urban core, splitting one metropolis between two continents."
         }
       ]
     },
@@ -25,19 +25,19 @@
       "label": "Markets",
       "facts": [
         {
-          "text": "On this date in 1992, Queen Elizabeth II offered to pay income tax voluntarily — markets barely blinked, but Buckingham Palace's finances have been publicly scrutinized ever since."
+          "text": "On this day in 1980, silver hit $50 an ounce as the Hunt brothers cornered the market — a price not sustainably surpassed for over 30 years."
         },
         {
-          "text": "On Nov 20, 1945, the Nuremberg trials opened. IG Farben, the chemical conglomerate that supplied Zyklon B, was not dissolved until 2012."
+          "text": "On November 21, 1974, Franklin National Bank collapsed — then the largest U.S. bank failure in history, undone by foreign exchange speculation."
         },
         {
-          "text": "The New York Stock Exchange was founded in 1792 under a buttonwood tree. The original 24 brokers agreed to charge each other a minimum commission — the first recorded price-fixing cartel in American finance."
+          "text": "The New York Stock Exchange was founded under a buttonwood tree in 1792. The original agreement had just 24 signatories and fit on a single page."
         },
         {
-          "text": "Saudi Aramco briefly hit a $2 trillion market cap in 2019, making it worth more than Google, Amazon, and Facebook combined at the time."
+          "text": "Warren Buffett's Berkshire Hathaway began as a failing textile mill. He later called buying it the worst investment of his life — a $200B mistake in opportunity cost."
         },
         {
-          "text": "Japan's Nikkei 225 peaked on December 29, 1989 and took 35 years to reclaim that high — the longest index recovery in modern market history."
+          "text": "Japan's Nikkei 225 peaked on December 29, 1989 at 38,957. It took 35 years to reclaim that level, the longest major index recovery in modern financial history."
         }
       ]
     },
@@ -45,19 +45,19 @@
       "label": "Science",
       "facts": [
         {
-          "text": "On this date in 1998, the first module of the International Space Station launched — a structure now so large it covers more area than a football field, orbiting at 28,000 km/h close enough to see with the naked eye."
+          "text": "On this date in 1905, Einstein submitted his paper on special relativity. Time dilation it describes isn't theoretical: GPS satellites must correct their clocks by 38 microseconds daily or navigation errors accumulate at 10km per day."
         },
         {
-          "text": "Your femur withstands forces up to five times your body weight while walking. Running triples that. It is, pound for pound, stronger than concrete."
-        },
-        {
-          "text": "On this date in 1789, New Jersey became the first U.S. state to ratify the Bill of Rights — but that is history. In science: the carbon in those ink molecules is older than the solar system."
+          "text": "On November 21, 1783, humans first flew — in a Montgolfier hot-air balloon over Paris. The passengers brought a pile of straw and a bucket of water, convinced they could manually control altitude by managing the flame."
         },
         {
           "text": "A neutron star packs more mass than the Sun into a sphere the size of a city. A teaspoon of its material would weigh roughly a billion tons on Earth."
         },
         {
-          "text": "The human eye can detect a single photon of light in complete darkness. Your visual system is operating at the absolute physical limit of sensitivity."
+          "text": "Your body replaces its entire skeleton approximately every 10 years. Bone is living tissue constantly dissolving and rebuilding — the femur you broke as a child no longer contains a single original atom."
+        },
+        {
+          "text": "The universe is not expanding into anything. Space itself is stretching, and distant galaxies aren't moving through space — the space between you and them is simply growing."
         }
       ]
     },
@@ -65,19 +65,19 @@
       "label": "Today in history",
       "facts": [
         {
-          "text": "On this day in 1945, the Nuremberg trials opened — making their verdicts younger than the first McDonald's franchise, which opened in 1953."
+          "text": "On this day in 1783, humans first flew — Pilâtre de Rozier drifted over Paris in a hot air balloon. The US Constitution was still four years away."
         },
         {
-          "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid. The pyramid is simply that old."
+          "text": "Fax machines predate the telephone. Alexander Bain patented his 'electric printing telegraph' in 1843, over 30 years before Bell made his first call."
         },
         {
-          "text": "On this day in 1789, New Jersey became the first state to ratify the Bill of Rights — three years before Kentucky even existed as a state."
+          "text": "On this day in 1877, Edison announced the phonograph — a machine to preserve the dead's voices. Victorian newspapers called it 'the most wonderful invention of the age.'"
         },
         {
-          "text": "The fax machine was invented in 1843, before anyone had laid a single mile of US transcontinental railroad track. We did not upgrade eagerly."
+          "text": "The woolly mammoth was still alive when the Great Pyramid was being built. The last isolated herd died on Wrangel Island around 1650 BC, centuries into Egyptian civilization."
         },
         {
-          "text": "Oxford University was already 200 years old when the Aztec Empire was founded. It is still operating. The Aztec Empire is not."
+          "text": "Oxford University is older than the Aztec Empire by roughly 300 years. Lectures began there around 1096; Tenochtitlán was founded in 1325."
         }
       ]
     },
@@ -85,19 +85,19 @@
       "label": "Words",
       "facts": [
         {
-          "text": "Saudade (Portuguese): a melancholic longing for something beloved that may never return. Linguists consider it untranslatable — English requires an entire sentence to approximate one word."
+          "text": "Hiraeth (Welsh): a homesickness for a home you cannot return to — or never had. The word fuses longing, grief, and love into a single feeling English has never managed to name."
         },
         {
-          "text": "Apricity: the warmth of winter sun on your skin. The word existed in 1623 and then, inexplicably, fell out of use. It deserves to be brought back."
+          "text": "Sonder (coined 2012): the realization that each passerby has a life as vivid and complex as your own. It spread so fast it now appears in translation in a dozen languages."
         },
         {
-          "text": "On this day in 1820, the Essex was rammed by a sperm whale — the real event that inspired Moby-Dick. The crew survived 90 days at sea; Melville called it 'the most extraordinary' story he ever heard."
+          "text": "On this day in 1783, the first untethered human balloon flight lifted over Paris. French gave us montgolfière for the craft — a word that briefly threatened to replace 'balloon' entirely."
         },
         {
-          "text": "Hiraeth (Welsh): a homesickness for a home you cannot return to, or one that never existed. It carries grief, longing, and belonging simultaneously — three emotions English treats as unrelated."
+          "text": "Apricity: the warmth of winter sun on your skin. The word appeared in English in 1623 and then, without explanation, vanished from dictionaries. It deserves its return."
         },
         {
-          "text": "On this day in 1945, the Nuremberg trials opened. The word 'genocide' had been coined just one year earlier by Raphael Lemkin, who spent years lobbying for the very tribunal that now used his term."
+          "text": "On this day in 1694, Voltaire was born. His pen name was a deliberate anagram of 'Arouet l.j.' — the 'l.j.' standing for le jeune, the young. He chose the alias after his first imprisonment."
         }
       ]
     },
@@ -105,19 +105,19 @@
       "label": "Blockchain",
       "facts": [
         {
-          "text": "On this date in 2017, Bitcoin hit $8,000 for the first time — then doubled again within three weeks. The entire move happened with no ETFs, no institutional custody rails, and Coinbase crashing under load."
+          "text": "On this date in 2021, Bitcoin hit its then-all-time high of $68,789. That peak came exactly 13 years after Satoshi published the whitepaper — an accident of the calendar, but a memorable one."
         },
         {
-          "text": "On this date in 2021, El Salvador's Bitcoin bonds ('Volcano Bonds') were formally announced by President Bukele at a Bitcoin conference in El Salvador — they finally launched in January 2025 after three years of regulatory delays."
+          "text": "On Nov 21, 2022, Binance walked away from its FTX rescue deal after one day of due diligence. The collapse that followed erased $8B in customer funds and ended Sam Bankman-Fried's carefully constructed reputation."
         },
         {
-          "text": "The Bitcoin genesis block contains the text 'Chancellor on brink of second bailout for banks' — Satoshi embedded a Times headline dated Jan 3, 2009, making the block's timestamp independently verifiable via newspaper archive."
+          "text": "Bitcoin's timechain has never produced two blocks with identical timestamps — but it legally can. The protocol only requires each block's timestamp exceed the median of the prior 11, not the previous block."
         },
         {
-          "text": "Ethereum's EIP-1559, live since August 2021, has permanently destroyed over 4.4 million ETH in base fees. The burn mechanism means Ethereum's monetary policy is set by transaction demand, not a fixed schedule."
+          "text": "The DAO hack in 2016 didn't exploit Solidity — it exploited a re-entrancy pattern the Ethereum team had documented as dangerous months earlier. The attacker read the warnings; most developers didn't."
         },
         {
-          "text": "The DAO hack in 2016 drained 3.6 million ETH through a reentrancy bug — but the attacker couldn't move the funds for 28 days due to a lockup in their own exploit contract, giving Ethereum time to execute the controversial hard fork."
+          "text": "Satoshi's genesis block contains the headline 'Chancellor on brink of second bailout for banks' not as metadata but embedded in the coinbase transaction — unspendable text permanently inscribed in every full node on earth."
         }
       ]
     },
@@ -125,19 +125,19 @@
       "label": "AI",
       "facts": [
         {
-          "text": "On this date in 2022, ChatGPT launched publicly. It reached 1 million users in 5 days — faster than any consumer product in history — and forced every major tech company to accelerate AI roadmaps by years."
+          "text": "On this date in 2022, ChatGPT launched publicly. It reached 1 million users in 5 days — faster than any consumer product in history — and forced every major tech company to accelerate or abandon multi-year roadmaps."
         },
         {
-          "text": "On this date in 2019, OpenAI released the full GPT-2 model it had withheld for 9 months over misuse fears. The cautious release was later widely considered unnecessary; no significant misuse materialized."
+          "text": "On this date in 2023, OpenAI's board fired Sam Altman. He was reinstated 5 days later after ~700 of 770 employees threatened to quit, exposing how fragile governance structures are when talent concentration is extreme."
         },
         {
-          "text": "AlphaFold2 predicted structures for over 200 million proteins — essentially the entire known proteome — in 2022. Structural biologists had expected that work to take centuries at experimental pace."
+          "text": "GPT-4 was trained on roughly 25,000 A100 GPUs for an estimated 90–100 days. The electricity alone cost more than most nations spend annually on scientific research."
         },
         {
-          "text": "The training run for GPT-4 is estimated to have consumed roughly 50 gigawatt-hours of electricity. That is comparable to the annual consumption of about 4,500 average US households, spent in weeks."
+          "text": "AlphaFold 2 predicted structures for over 200 million proteins — nearly every catalogued protein on Earth — in roughly 18 months. Structural biologists had manually solved ~170,000 in the prior 50 years."
         },
         {
-          "text": "RLHF — reinforcement learning from human feedback — was not invented by OpenAI. The core technique dates to a 2017 DeepMind and OpenAI joint paper on learning reward functions from human preferences."
+          "text": "The 2024 Nobel Prize in Physics went to Hopfield and Hinton for work done in the 1980s. The prize committee effectively awarded foundational ML research, marking the first time the physics Nobel recognized work with no physics application."
         }
       ]
     }
